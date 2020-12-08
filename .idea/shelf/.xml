@@ -1,0 +1,19 @@
+<changelist name="默认的" date="1607433350590" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/默认的/shelved.patch" />
+  <option name="DESCRIPTION" value="默认的" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="config/WarehouseReceipt/__pycache__/sem_config.cpython-38.pyc" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/默认的/sem_config.cpython-38.pyc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="setting/WarehouseReceipt/__pycache__/sem_login.cpython-38.pyc" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/默认的/sem_login.cpython-38.pyc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="config/WarehouseReceipt/__pycache__/sem_url.cpython-38.pyc" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/默认的/sem_url.cpython-38.pyc" />
+  </binary>
+</changelist>

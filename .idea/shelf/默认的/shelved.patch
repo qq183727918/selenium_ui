@@ -1,0 +1,687 @@
+Index: config/procurementTransit/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/procurementTransit/sem_config.py b/config/procurementTransit/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/procurementTransit/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
+Index: config/purchaseOrder/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/purchaseOrder/sem_config.py b/config/purchaseOrder/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/purchaseOrder/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1607427385343)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1607427385343)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: config/ReturnShelfOrder/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/ReturnShelfOrder/sem_config.py b/config/ReturnShelfOrder/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/ReturnShelfOrder/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1607427385327)
++++ b/.idea/misc.xml	(date 1607427385327)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/selenium_ui.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/selenium_ui.iml b/.idea/selenium_ui.iml
+new file mode 100644
+--- /dev/null	(date 1607427385310)
++++ b/.idea/selenium_ui.iml	(date 1607427385310)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="TestRunnerService">
++    <option name="PROJECT_TEST_RUNNER" value="pytest" />
++  </component>
++</module>
+\ No newline at end of file
+Index: config/UpShelfOrder/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/UpShelfOrder/sem_config.py b/config/UpShelfOrder/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/UpShelfOrder/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
+Index: config/WarehouseReceipt/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/WarehouseReceipt/sem_config.py b/config/WarehouseReceipt/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607433276621)
++++ b/config/WarehouseReceipt/sem_config.py	(date 1607433276621)
+@@ -0,0 +1,44 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++from setting.WarehouseReceipt.sem_login import Sem_Login_Test as slt
++from config.WarehouseReceipt.sem_url import sem_url_test
++from selenium import webdriver
++from time import sleep
++
++class Sem_Config:
++
++    def __init__(self):
++        '''
++        selenium
++        运营管理系统
++        供应链管理
++        库存管理
++        入库单管理
++        入库单
++        '''
++        # driver = webdriver.Chrome()
++
++    def Inventory_test(self):
++        '''供应链管理'''
++        sut = sem_url_test()
++
++        url = sut.sem_WarehouseReceipt()
++
++        s = slt()
++
++        s.sem_params()
++
++        driver = s.driver()
++
++        s.sem_login(driver)
++        sleep(1.5)
++        driver.get(url)
++        sleep(5)
++        # driver.quit()
++if __name__=='__main__':
++    sem = Sem_Config()
++    sem.Inventory_test()
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+new file mode 100644
+--- /dev/null	(date 1607427384836)
++++ b/main.py	(date 1607427384836)
+@@ -0,0 +1,16 @@
++# 这是一个示例 Python 脚本。
++
++# 按 Alt+Shift+X 执行或将其替换为您的代码。
++# 按 双击 Shift 在所有地方搜索类、文件、工具窗口、操作和设置。
++
++
++def print_hi(name):
++    # 在下面的代码行中使用断点来调试脚本。
++    print(f'Hi, {name}')  # 按 Ctrl+Shift+B 切换断点。
++
++
++# 按间距中的绿色按钮以运行脚本。
++if __name__ == '__main__':
++    print_hi('PyCharm')
++
++# 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+Index: config/latestOverseasWarehouse/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/latestOverseasWarehouse/sem_config.py b/config/latestOverseasWarehouse/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607428977567)
++++ b/config/latestOverseasWarehouse/sem_config.py	(date 1607428977567)
+@@ -0,0 +1,14 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def __init__(self):
++        '''
++        selenium
++        '''
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1607427385488)
++++ b/.idea/.gitignore	(date 1607427385488)
+@@ -0,0 +1,8 @@
++# 默认忽略的文件
++/shelf/
++/workspace.xml
++# 数据源本地存储已忽略文件
++/../../../../../:\work\c2\selenium_ui\.idea/dataSources/
++/dataSources.local.xml
++# 基于编辑器的 HTTP 客户端请求
++/httpRequests/
+Index: testcase/WarehouseReceipt/sem_WarehouseReceipt.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/WarehouseReceipt/sem_WarehouseReceipt.py b/testcase/WarehouseReceipt/sem_WarehouseReceipt.py
+new file mode 100644
+--- /dev/null	(date 1607433335123)
++++ b/testcase/WarehouseReceipt/sem_WarehouseReceipt.py	(date 1607433335123)
+@@ -0,0 +1,31 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:36
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_WarehouseReceipt.py
++# @Software : PyCharm
++from config.WarehouseReceipt.sem_config import Sem_Config
++
++class WarehouseReceipt_test:
++    def __init__(self):
++        '''
++        运营管理系统  供应链管理   库存管理   入库单管理
++        '''
++
++    def Receipt_test(self):
++
++        sc = Sem_Config()
++
++        sc.Inventory_test()
++
++    def Warehouse_test(self):
++
++        pass
++        '''
++        添加driver
++        写testcase
++        '''
++
++if __name__=='__main__':
++    Wt = WarehouseReceipt_test()
++    Wt.Receipt_test()
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1607427385316)
++++ b/.idea/modules.xml	(date 1607427385316)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/selenium_ui.iml" filepath="$PROJECT_DIR$/.idea/selenium_ui.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1607427385333)
++++ b/.idea/vcs.xml	(date 1607427385333)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: testcase/UpShelfOrder/sem_UpShelfOrder.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/UpShelfOrder/sem_UpShelfOrder.py b/testcase/UpShelfOrder/sem_UpShelfOrder.py
+new file mode 100644
+--- /dev/null	(date 1607427981303)
++++ b/testcase/UpShelfOrder/sem_UpShelfOrder.py	(date 1607427981303)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:37
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_UpShelfOrder.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   库存管理   上架单管理
++    '''
+Index: testcase/ReturnShelfOrder/sem_ReturnShelfOrder.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/ReturnShelfOrder/sem_ReturnShelfOrder.py b/testcase/ReturnShelfOrder/sem_ReturnShelfOrder.py
+new file mode 100644
+--- /dev/null	(date 1607427981294)
++++ b/testcase/ReturnShelfOrder/sem_ReturnShelfOrder.py	(date 1607427981294)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:37
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_ReturnShelfOrder.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   库存管理   反架单管理
++    '''
+Index: setting/WarehouseReceipt/sem_login.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/setting/WarehouseReceipt/sem_login.py b/setting/WarehouseReceipt/sem_login.py
+new file mode 100644
+--- /dev/null	(date 1607431907413)
++++ b/setting/WarehouseReceipt/sem_login.py	(date 1607431907413)
+@@ -0,0 +1,62 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 20:04
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_login.py
++# @Software : PyCharm
++
++from selenium import webdriver
++from time import sleep
++
++
++class Sem_Login_Test:
++
++    def __init__(self):
++        '''
++        selenium
++        运营管理系统  -----   登录代码
++        供应链管理
++        库存管理
++        入库单管理
++        '''
++
++    def sem_params(self):
++        ''''''
++        self.url = 'http://sem.test.vevor.net/login'
++
++        self.name = 'liuxiaoqiang'
++
++        self.pwd = '!sishun666'
++
++        self.name_id = 'username'
++
++        self.pwd_id = 'password'
++
++        self.sem_login_xpath = '//*[@type="button"]'
++
++    def driver(self):
++
++        driver = webdriver.Chrome()
++
++        return driver
++
++    def sem_login(self,driver):
++        ''''''
++        # driver = webdriver.Chrome()
++        sleep(0.5)
++        driver.maximize_window()
++        sleep(0.5)
++        driver.get(self.url)
++        sleep(0.5)
++        driver.find_element_by_id(self.name_id).send_keys(self.name)
++        sleep(0.5)
++        driver.find_element_by_id(self.pwd_id).send_keys(self.pwd)
++        sleep(0.5)
++        driver.find_element_by_xpath(self.sem_login_xpath).click()
++        sleep(0.5)
++        # driver.quit()
++
++if __name__=='__main__':
++
++    sem = Sem_Login_Test()
++    sem.sem_params()
+Index: testcase/purchaseOrder/sem_purchaseOrder.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/purchaseOrder/sem_purchaseOrder.py b/testcase/purchaseOrder/sem_purchaseOrder.py
+new file mode 100644
+--- /dev/null	(date 1607427981308)
++++ b/testcase/purchaseOrder/sem_purchaseOrder.py	(date 1607427981308)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:43
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_purchaseOrder.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   采购管理   采购单
++    '''
+Index: testcase/payment/sem_payment.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/payment/sem_payment.py b/testcase/payment/sem_payment.py
+new file mode 100644
+--- /dev/null	(date 1607427981313)
++++ b/testcase/payment/sem_payment.py	(date 1607427981313)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:45
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_payment.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   采购管理   付款单
++    '''
+Index: testcase/MoveMoney/sem_MoveMoney.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/MoveMoney/sem_MoveMoney.py b/testcase/MoveMoney/sem_MoveMoney.py
+new file mode 100644
+--- /dev/null	(date 1607427981299)
++++ b/testcase/MoveMoney/sem_MoveMoney.py	(date 1607427981299)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:46
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_MoveMoney.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   采购管理   移款单
++    '''
+Index: config/WarehouseReceipt/sem_url.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/WarehouseReceipt/sem_url.py b/config/WarehouseReceipt/sem_url.py
+new file mode 100644
+--- /dev/null	(date 1607432141046)
++++ b/config/WarehouseReceipt/sem_url.py	(date 1607432141046)
+@@ -0,0 +1,13 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 20:49
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_url.py
++# @Software : PyCharm
++class sem_url_test:
++
++    def sem_WarehouseReceipt(self):
++        '''入库单URL'''
++        url = 'http://sem.test.vevor.net/scp/Inventory/WarehouseReceipt'
++
++        return url
+Index: testcase/latestOverseasWarehouse/sem_latestOverseasWarehouse.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/latestOverseasWarehouse/sem_latestOverseasWarehouse.py b/testcase/latestOverseasWarehouse/sem_latestOverseasWarehouse.py
+new file mode 100644
+--- /dev/null	(date 1607428149645)
++++ b/testcase/latestOverseasWarehouse/sem_latestOverseasWarehouse.py	(date 1607428149645)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:46
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_latestOverseasWarehouse.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   采购管理   最新海外仓管理
++    '''
+Index: testcase/procurementTransit/sem_procurementTransit.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/testcase/procurementTransit/sem_procurementTransit.py b/testcase/procurementTransit/sem_procurementTransit.py
+new file mode 100644
+--- /dev/null	(date 1607428149641)
++++ b/testcase/procurementTransit/sem_procurementTransit.py	(date 1607428149641)
+@@ -0,0 +1,11 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:47
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_procurementTransit.py
++# @Software : PyCharm
++
++def __init__():
++    '''
++    运营管理系统  供应链管理   采购管理   采购在途管理
++    '''
+Index: config/MoveMoney/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/MoveMoney/sem_config.py b/config/MoveMoney/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/MoveMoney/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
+Index: config/payment/sem_config.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config/payment/sem_config.py b/config/payment/sem_config.py
+new file mode 100644
+--- /dev/null	(date 1607427384832)
++++ b/config/payment/sem_config.py	(date 1607427384832)
+@@ -0,0 +1,22 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/8 19:32
++# @Author   : LiuXiaoQiang
++# @Site     : http:www.cdtest.cn/
++# @File     : sem_config.py
++# @Software : PyCharm
++
++
++class sem_config:
++
++    def sem_url(self):
++        self.url = ''
++
++    def sem_headers(self):
++        self.headers = {
++
++        }
++
++    def sem_params(self):
++        self.params = {
++
++        }
