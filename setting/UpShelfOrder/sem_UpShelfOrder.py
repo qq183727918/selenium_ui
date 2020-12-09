@@ -26,7 +26,7 @@ class Sem_UpShelfOrder:
         self.uso = slt()
 
         driver = self.uso.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

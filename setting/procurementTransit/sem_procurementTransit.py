@@ -26,7 +26,7 @@ class Sem_ProcurementTransit:
         self.pt = slt()
 
         driver = self.pt.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

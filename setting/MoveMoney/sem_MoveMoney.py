@@ -26,7 +26,7 @@ class Sem_MoveMoney:
         self.mm = slt()
 
         driver = self.mm.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

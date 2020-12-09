@@ -18,7 +18,7 @@ class UpShelfOrder(unittest.TestCase):
 
     def test(self):
         driver.minimize_window()
-        sleep(10)
+        sleep(3)
 
     def tearDown(self) -> None:
         driver.quit()

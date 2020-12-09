@@ -14,11 +14,11 @@ class LatestOverseasWarehouse(unittest.TestCase):
     def setUp(self) -> None:
         slow = Sem_LatestOverseasWarehouse()
         global driver
-        driver = slow.low()
+        driver = slow.LatestOverseasWarehouse()
 
     def test(self):
         driver.minimize_window()
-        sleep(10)
+        sleep(3)
 
     def tearDown(self) -> None:
         driver.quit()

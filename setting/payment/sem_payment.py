@@ -26,7 +26,7 @@ class Sem_Payment:
         self.pay = slt()
 
         driver = self.pay.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver
@@ -34,4 +34,4 @@ class Sem_Payment:
 
 if __name__ == '__main__':
     sem = Sem_Payment()
-    sem.warehouse()
+    sem.Payment()

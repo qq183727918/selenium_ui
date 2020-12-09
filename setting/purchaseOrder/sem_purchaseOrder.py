@@ -26,7 +26,7 @@ class Sem_PurchaseOrder:
         self.po = slt()
 
         driver = self.po.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

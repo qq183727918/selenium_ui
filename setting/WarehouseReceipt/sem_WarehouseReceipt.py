@@ -26,7 +26,7 @@ class Sem_WarehouseReceipt:
         self.swhr = slt()
 
         driver = self.swhr.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

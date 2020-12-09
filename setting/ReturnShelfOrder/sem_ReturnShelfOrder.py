@@ -26,7 +26,7 @@ class Sem_ReturnShelfOrder:
         self.ro = slt()
 
         driver = self.ro.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

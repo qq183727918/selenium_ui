@@ -26,7 +26,7 @@ class Sem_LatestOverseasWarehouse:
         self.low = slt()
 
         driver = self.low.sem_login()
-
+        sleep(2)
         driver.get(self.url)
 
         return driver

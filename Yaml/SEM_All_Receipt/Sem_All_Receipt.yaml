@@ -1,31 +1,31 @@
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\latestOverseasWarehouse
     file_path: D:\Tools\git\selenium_ui\report\latestOverseasWarehouse\latestOver
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\MoveMoney
     file_path: D:\Tools\git\selenium_ui\report\MoveMoney\MoveMoney
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\payment
     file_path: D:\Tools\git\selenium_ui\report\payment\payment
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\procurementTransit
     file_path: D:\Tools\git\selenium_ui\report\procurementTransit\Transit
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\purchaseOrder
     file_path: D:\Tools\git\selenium_ui\report\purchaseOrder\purchaseOrder
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\ReturnShelfOrder
     file_path: D:\Tools\git\selenium_ui\report\ReturnShelfOrder\ReturnShelfOrder
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\UpShelfOrder
     file_path: D:\Tools\git\selenium_ui\report\UpShelfOrder\UpShelfOrder
 
--
+- test:
     path: D:\Tools\git\selenium_ui\testcase\WarehouseReceipt
     file_path: D:\Tools\git\selenium_ui\report\WarehouseReceipt\WarehouseReceipt
