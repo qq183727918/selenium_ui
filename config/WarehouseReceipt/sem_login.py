@@ -6,7 +6,9 @@
 # @Software : PyCharm
 from selenium import webdriver
 from time import sleep
-
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 class Sem_Login_Test:
 
@@ -17,7 +19,7 @@ class Sem_Login_Test:
         库存管理
         入库单管理
         '''
-        self.url = 'http://sem.test.vevor.net/'
+        self.url = 'http://sem.test.vevor.net/login'
 
         self.name = 'liuxiaoqiang'
 
@@ -28,20 +30,17 @@ class Sem_Login_Test:
         self.pwd_id = 'password'
 
         self.login = '//*[@type="button"]'
+        self.driver = webdriver.Chrome()
 
-    def driver_test(self):
+    def sem_login(self):
         '''
         设置driver可以全局调用
         '''
-        global driver
-        driver = webdriver.Chrome()
-
-        return driver
-
-    def sem_login(self):
-        driver.get(self.url)
+        driver = self.driver
+        wait = WebDriverWait(driver, 60)
         driver.maximize_window()
-        sleep(0.5)
+        driver.get(self.url)
+        wait.until(EC.presence_of_element_located((By.ID, self.name_id)))
         driver.find_element_by_id(self.name_id).send_keys(self.name)
         sleep(0.5)
         driver.find_element_by_id(self.pwd_id).send_keys(self.pwd)
@@ -51,9 +50,8 @@ class Sem_Login_Test:
 
         # driver.get('http://sem.test.vevor.net/scp/Inventory/WarehouseReceipt')
         # sleep(5)
-
+        return driver
 
 if __name__ == '__main__':
     slt = Sem_Login_Test()
-    slt.driver_test()
     slt.sem_login()

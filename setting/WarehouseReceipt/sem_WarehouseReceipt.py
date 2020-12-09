@@ -5,6 +5,7 @@
 # @File     : sem_WarehouseReceipt.py
 # @Software : PyCharm
 from config.WarehouseReceipt.sem_login import Sem_Login_Test as slt
+from time import sleep
 
 
 class Sem_WarehouseReceipt:
@@ -24,11 +25,11 @@ class Sem_WarehouseReceipt:
         '''''
         self.swhr = slt()
 
-        driver = self.swhr.driver_test()
-
-        self.swhr.sem_login()
+        driver = self.swhr.sem_login()
 
         driver.get(self.url)
+
+        return driver
 
 
 if __name__ == '__main__':
