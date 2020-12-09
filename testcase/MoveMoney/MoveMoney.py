@@ -1,20 +1,20 @@
 # _*_ coding: UTF-8 _*_
-# @Time     : 2020/12/9 10:24
+# @Time     : 2020/12/9 13:16
 # @Author   : LiuXiaoQiang
 # @Site     : https://github.com/qq183727918
-# @File     : Warehouse_test.py
+# @File     : MoveMoney.py
 # @Software : PyCharm
-from setting.WarehouseReceipt.sem_WarehouseReceipt import Sem_WarehouseReceipt
+from setting.MoveMoney.sem_MoveMoney import Sem_MoveMoney
 from time import sleep
 import unittest
 
 
-class WareHouseTest(unittest.TestCase):
+class MoveMoney(unittest.TestCase):
 
     def setUp(self) -> None:
-        swr = Sem_WarehouseReceipt()
+        smm = Sem_MoveMoney()
         global driver
-        driver = swr.warehouse()
+        driver = smm.MoveMoney()
 
     def test(self):
         driver.minimize_window()

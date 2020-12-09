@@ -1,20 +1,20 @@
 # _*_ coding: UTF-8 _*_
-# @Time     : 2020/12/9 10:24
+# @Time     : 2020/12/9 13:15
 # @Author   : LiuXiaoQiang
 # @Site     : https://github.com/qq183727918
-# @File     : Warehouse_test.py
+# @File     : procurementTransit.py
 # @Software : PyCharm
-from setting.WarehouseReceipt.sem_WarehouseReceipt import Sem_WarehouseReceipt
+from setting.procurementTransit.sem_procurementTransit import Sem_ProcurementTransit
 from time import sleep
 import unittest
 
 
-class WareHouseTest(unittest.TestCase):
+class ProcurementTransit(unittest.TestCase):
 
     def setUp(self) -> None:
-        swr = Sem_WarehouseReceipt()
+        spt = Sem_ProcurementTransit()
         global driver
-        driver = swr.warehouse()
+        driver = spt.ProcurementTransit()
 
     def test(self):
         driver.minimize_window()

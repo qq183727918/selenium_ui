@@ -1,20 +1,20 @@
 # _*_ coding: UTF-8 _*_
-# @Time     : 2020/12/9 10:24
+# @Time     : 2020/12/9 13:16
 # @Author   : LiuXiaoQiang
 # @Site     : https://github.com/qq183727918
-# @File     : Warehouse_test.py
+# @File     : latestOverseasWarehouse.py
 # @Software : PyCharm
-from setting.WarehouseReceipt.sem_WarehouseReceipt import Sem_WarehouseReceipt
+from setting.latestOverseasWarehouse.sem_latestOverseasWarehouse import Sem_LatestOverseasWarehouse
 from time import sleep
 import unittest
 
 
-class WareHouseTest(unittest.TestCase):
+class LatestOverseasWarehouse(unittest.TestCase):
 
     def setUp(self) -> None:
-        swr = Sem_WarehouseReceipt()
+        slow = Sem_LatestOverseasWarehouse()
         global driver
-        driver = swr.warehouse()
+        driver = slow.low()
 
     def test(self):
         driver.minimize_window()

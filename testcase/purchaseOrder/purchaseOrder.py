@@ -1,20 +1,20 @@
 # _*_ coding: UTF-8 _*_
-# @Time     : 2020/12/9 10:24
+# @Time     : 2020/12/9 13:15
 # @Author   : LiuXiaoQiang
 # @Site     : https://github.com/qq183727918
-# @File     : Warehouse_test.py
+# @File     : purchaseOrder.py
 # @Software : PyCharm
-from setting.WarehouseReceipt.sem_WarehouseReceipt import Sem_WarehouseReceipt
+from setting.purchaseOrder.sem_purchaseOrder import Sem_PurchaseOrder
 from time import sleep
 import unittest
 
 
-class WareHouseTest(unittest.TestCase):
+class PurchaseOrder(unittest.TestCase):
 
     def setUp(self) -> None:
-        swr = Sem_WarehouseReceipt()
+        spo = Sem_PurchaseOrder()
         global driver
-        driver = swr.warehouse()
+        driver = spo.PurchaseOrder()
 
     def test(self):
         driver.minimize_window()

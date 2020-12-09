@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/debug/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/__pycache__/sem_WarehouseReceipt.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/Warehouse_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/MoveMoney/MoveMoney.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/ReturnShelfOrder/ReturnShelfOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/UpShelfOrder/UpShelfOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/latestOverseasWarehouse/latestOverseasWarehouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/payment/payment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/procurementTransit/procurementTransit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/purchaseOrder/purchaseOrder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/WarehouseReceipt/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/config/WarehouseReceipt/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/WarehouseReceipt/sem_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/WarehouseReceipt/sem_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/MoveMoney/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/MoveMoney/sem_MoveMoney.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/ReturnShelfOrder/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/ReturnShelfOrder/sem_ReturnShelfOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/UpShelfOrder/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/UpShelfOrder/sem_UpShelfOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/payment/sem_payment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/payment/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/procurementTransit/sem_procurementTransit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/procurementTransit/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/purchaseOrder/sem_purchaseOrder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/purchaseOrder/sem_WarehouseReceipt.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/自动化/work/c1/auto5/wait_test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/setting/latestOverseasWarehouse" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -79,11 +88,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\work\c2\selenium_ui\config\WarehouseReceipt" />
-      <recent name="D:\work\c2\selenium_ui\config\UpShelfOrder" />
-      <recent name="D:\work\c2\selenium_ui\config\ReturnShelfOrder" />
-      <recent name="D:\work\c2\selenium_ui\config\purchaseOrder" />
-      <recent name="D:\work\c2\selenium_ui\config\procurementTransit" />
+      <recent name="D:\Tools\git\selenium_ui\setting\latestOverseasWarehouse" />
+      <recent name="D:\Tools\git\selenium_ui\setting\MoveMoney" />
+      <recent name="D:\Tools\git\selenium_ui\setting\payment" />
+      <recent name="D:\Tools\git\selenium_ui\setting\procurementTransit" />
+      <recent name="D:\Tools\git\selenium_ui\setting\purchaseOrder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\c2\selenium_ui\config\latestOverseasWarehouse" />
@@ -238,7 +247,7 @@
       <workItem from="1607433371089" duration="341000" />
       <workItem from="1607475017221" duration="5027000" />
       <workItem from="1607480614367" duration="2483000" />
-      <workItem from="1607483494608" duration="1229000" />
+      <workItem from="1607483494608" duration="3753000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -261,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607479410286</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="WarehouseReceipt">
+      <created>1607484794395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607484794395</updated>
+    </task>
+    <task id="LOCAL-00005" summary="All Receipt">
+      <created>1607485036281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607485036281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,13 +306,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="selenium" />
     <MESSAGE value="WarehouseReceipt" />
-    <option name="LAST_COMMIT_MESSAGE" value="WarehouseReceipt" />
+    <MESSAGE value="All Receipt" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Receipt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage" NAME="sem_WarehouseReceipt (1) 覆盖结果" MODIFIED="1607484499131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login.coverage" NAME="sem_login 覆盖结果" MODIFIED="1607430253986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_config.coverage" NAME="sem_config 覆盖结果" MODIFIED="1607432141059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
-    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607484444332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607484733795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt.coverage" NAME="sem_WarehouseReceipt 覆盖结果" MODIFIED="1607433276631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$debug.coverage" NAME="debug 覆盖结果" MODIFIED="1607484615175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1607478290653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
