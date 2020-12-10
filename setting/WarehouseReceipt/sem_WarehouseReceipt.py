@@ -6,7 +6,9 @@
 # @Software : PyCharm
 from config.WarehouseReceipt.sem_login import Sem_Login_Test as slt
 from time import sleep
-
+# from selenium.webdriver.support.wait import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.common.by import By
 
 class Sem_WarehouseReceipt:
 
@@ -24,7 +26,6 @@ class Sem_WarehouseReceipt:
         定义driver 
         '''''
         self.swhr = slt()
-
         driver = self.swhr.sem_login()
         sleep(2)
         driver.get(self.url)

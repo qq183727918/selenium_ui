@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/params/params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/WarehouseReceipt/warehousereceipt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yaml/WMS_All_Receipt/Wms_All_Receipt.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Yaml/WMS_All_Receipt/Wms_All_Receipt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MoveMoney/MoveMoney2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/MoveMoney/MoveMoney2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ReturnShelfOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/ReturnShelfOrder/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ReturnShelfOrder/Return2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/ReturnShelfOrder/Return2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/UpShelfOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/UpShelfOrder/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/UpShelfOrder/UpShelf2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/UpShelfOrder/UpShelf2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/WarehouseReceipt/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/WarehouseReceipt/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/WarehouseReceipt/Warehouse2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/WarehouseReceipt/Warehouse2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/latestOverseasWarehouse/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/latestOverseasWarehouse/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/latestOverseasWarehouse/latestOverseasWarehouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/latestOverseasWarehouse/latestOverseasWarehouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/payment/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/payment/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/payment/payment2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/payment/payment2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/procurementTransit/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/procurementTransit/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/procurementTransit/Transit2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/procurementTransit/Transit2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/purchaseOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/purchaseOrder/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/purchaseOrder/purchaseOrder2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/purchaseOrder/purchaseOrder2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/WarehouseReceipt/Warehouse_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/Warehouse_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../request_influence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -108,51 +94,7 @@
       <recent name="D:\work\c2\selenium_ui\testcase\UpShelfOrder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.latestOverseasWarehouse">
-    <configuration name="Sem_All_Receipt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner/SEM_All_Receipt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/SEM_All_Receipt/Sem_All_Receipt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WarehouseReceipt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner/SEM_All_Receipt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/SEM_All_Receipt/WarehouseReceipt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python 测试.Warehouse_test.WareHouseTest 的 pytest">
     <configuration name="latestOverseasWarehouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sem_WarehouseReceipt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/setting/WarehouseReceipt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,13 +183,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Warehouse_test.WareHouseTest 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Warehouse_test.WareHouseTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Warehouse_test.WareHouseTest.test 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Warehouse_test.WareHouseTest.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.Warehouse_test.WareHouseTest 的 pytest" />
+        <item itemvalue="Python 测试.Warehouse_test.WareHouseTest.test 的 pytest" />
+        <item itemvalue="Python.sem_WarehouseReceipt" />
         <item itemvalue="Python.latestOverseasWarehouse" />
         <item itemvalue="Python.payment" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python.WarehouseReceipt" />
-        <item itemvalue="Python.Sem_All_Receipt" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +245,8 @@
       <workItem from="1607480614367" duration="2483000" />
       <workItem from="1607483494608" duration="7901000" />
       <workItem from="1607496074157" duration="8378000" />
-      <workItem from="1607561579781" duration="2355000" />
+      <workItem from="1607561579781" duration="2412000" />
+      <workItem from="1607566848691" duration="6482000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -327,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607503253955</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Runner_report">
+      <created>1607566804224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607566804224</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,8 +386,8 @@
     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_py__pytest.coverage" NAME="Warehouse_test.py 中的 pytest 覆盖结果" MODIFIED="1607499881588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_procurementTransit.coverage" NAME="sem_procurementTransit 覆盖结果" MODIFIED="1607500055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/procurementTransit" />
     <SUITE FILE_PATH="coverage/selenium_ui$procurementTransit_ProcurementTransit__pytest.coverage" NAME="procurementTransit.ProcurementTransit 的 pytest 覆盖结果" MODIFIED="1607500125831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/procurementTransit" />
-    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest_test__pytest.coverage" NAME="Warehouse_test.WareHouseTest.test 的 pytest 覆盖结果" MODIFIED="1607484705074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$WarehouseReceipt.coverage" NAME="WarehouseReceipt 覆盖结果" MODIFIED="1607502353120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest_test__pytest.coverage" NAME="Warehouse_test.WareHouseTest.test 的 pytest 覆盖结果" MODIFIED="1607577021721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage" NAME="sem_WarehouseReceipt (1) 覆盖结果" MODIFIED="1607484499131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrder__pytest.coverage" NAME="purchaseOrder.PurchaseOrder 的 pytest 覆盖结果" MODIFIED="1607500170880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$ReturnShelfOrder_ReturnShelfOrder__pytest.coverage" NAME="ReturnShelfOrder.ReturnShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500202669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/ReturnShelfOrder" />
@@ -413,9 +397,9 @@
     <SUITE FILE_PATH="coverage/selenium_ui$payment_Payment__pytest.coverage" NAME="payment.Payment 的 pytest 覆盖结果" MODIFIED="1607500012173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/payment" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_config.coverage" NAME="sem_config 覆盖结果" MODIFIED="1607432141059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$run.coverage" NAME="run 覆盖结果" MODIFIED="1607502990362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607484733795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
-    <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt.coverage" NAME="sem_WarehouseReceipt 覆盖结果" MODIFIED="1607433276631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607577327633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse.coverage" NAME="latestOverseasWarehouse 覆盖结果" MODIFIED="1607503187394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt.coverage" NAME="sem_WarehouseReceipt 覆盖结果" MODIFIED="1607572493305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$debug.coverage" NAME="debug 覆盖结果" MODIFIED="1607484615175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1607478290653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_latestOverseasWarehouse.coverage" NAME="sem_latestOverseasWarehouse 覆盖结果" MODIFIED="1607499843676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/latestOverseasWarehouse" />
