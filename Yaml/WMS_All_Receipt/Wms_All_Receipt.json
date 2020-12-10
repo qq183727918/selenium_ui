@@ -1,0 +1,34 @@
+{
+  "test1": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\latestOverseasWarehouse",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\latestOverseasWarehouse\\latestOver"
+  },
+  "test2": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\MoveMoney",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\MoveMoney\\MoveMoney"
+  },
+  "test3": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\payment",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\payment\\payment"
+  },
+  "test4": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\procurementTransit",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\procurementTransit\\Transit"
+  },
+  "test5": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\purchaseOrder",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\purchaseOrder\\purchaseOrder"
+  },
+  "test6": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\ReturnShelfOrder",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\ReturnShelfOrder\\ReturnShelfOrder"
+  },
+  "test7": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\UpShelfOrder",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\UpShelfOrder\\UpShelfOrder"
+  },
+  "test8": {
+    "path": "D:\\Tools\\git\\selenium_ui\\testcase\\WarehouseReceipt",
+    "file_path": "D:\\Tools\\git\\selenium_ui\\report\\WarehouseReceipt\\WarehouseReceipt"
+  }
+}

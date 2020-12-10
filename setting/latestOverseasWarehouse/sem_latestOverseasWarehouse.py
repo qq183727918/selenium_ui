@@ -8,6 +8,7 @@ from config.latestOverseasWarehouse.sem_login import Sem_Login_Test as slt
 from time import sleep
 
 
+# noinspection PyPep8Naming
 class Sem_LatestOverseasWarehouse:
 
     def __init__(self):
@@ -19,6 +20,7 @@ class Sem_LatestOverseasWarehouse:
         '''
         self.url = 'http://sem.test.vevor.net/scp/purchase/latestOverseasWarehouse'
 
+    # noinspection PyPep8Naming
     def LatestOverseasWarehouse(self):
         '''
         定义driver 

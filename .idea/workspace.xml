@@ -5,75 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/Json/SEM_All_Receipt/SEM_All_Receipt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/ReturnShelfOrder/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/UpShelfOrder/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/procurementTransit/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/purchaseOrder/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/All_Receipt2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/ReturnShelfOrder/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/UpShelfOrder/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/WarehouseReceipt/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/WarehouseReceipt/Warehouse2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/payment/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/procurementTransit/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/procurementTransit/Transit2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/purchaseOrder/2020-12-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/MoveMoney.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/ReturnShelfOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/UpShelfOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/WarehouseReceipt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/MoveMoney.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/ReturnShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/UpShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/WarehouseReceipt.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/latestOverseasWarehouse.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/payment.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/procurementTransit.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/__pycache__/purchaseOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/latestOverseasWarehouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/procurementTransit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/SEM_All_Receipt/purchaseOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/ReturnShelfOrder/__pycache__/sem_ReturnShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/UpShelfOrder/__pycache__/sem_UpShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/procurementTransit/__pycache__/sem_procurementTransit.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/purchaseOrder/__pycache__/sem_purchaseOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/MoveMoney/__pycache__/MoveMoney.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/ReturnShelfOrder/__pycache__/ReturnShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/UpShelfOrder/__pycache__/UpShelfOrder.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/__pycache__/Warehouse_test.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/procurementTransit/__pycache__/procurementTransit.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/purchaseOrder/__pycache__/purchaseOrder.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yaml/SEM_All_Receipt/Sem_All_Receipt.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Yaml/SEM_All_Receipt/Sem_All_Receipt.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yaml/WMS_All_Receipt/Wms_All_Receipt.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Yaml/WMS_All_Receipt/Wms_All_Receipt.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/MoveMoney/MoveMoney2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/MoveMoney/MoveMoney2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/latestOverseasWarehouse/latestOver_2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/latestOverseasWarehouse/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/payment/payment_2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/MoveMoney/2020-12-09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runner/SEM_All_Receipt/Sem_All_Receipt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/MoveMoney/__pycache__/sem_MoveMoney.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/setting/MoveMoney/__pycache__/sem_MoveMoney.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/MoveMoney/sem_MoveMoney.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/MoveMoney/sem_MoveMoney.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/ReturnShelfOrder/sem_ReturnShelfOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/ReturnShelfOrder/sem_ReturnShelfOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/UpShelfOrder/sem_UpShelfOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/UpShelfOrder/sem_UpShelfOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/WarehouseReceipt/__pycache__/sem_WarehouseReceipt.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/__pycache__/sem_WarehouseReceipt.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/latestOverseasWarehouse/__pycache__/sem_latestOverseasWarehouse.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/setting/latestOverseasWarehouse/__pycache__/sem_latestOverseasWarehouse.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/ReturnShelfOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/ReturnShelfOrder/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/ReturnShelfOrder/Return2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/ReturnShelfOrder/Return2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/UpShelfOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/UpShelfOrder/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/UpShelfOrder/UpShelf2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/UpShelfOrder/UpShelf2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/WarehouseReceipt/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/WarehouseReceipt/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/WarehouseReceipt/Warehouse2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/WarehouseReceipt/Warehouse2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/latestOverseasWarehouse/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/latestOverseasWarehouse/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/latestOverseasWarehouse/latestOverseasWarehouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/latestOverseasWarehouse/latestOverseasWarehouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/payment/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/payment/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/payment/payment2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/payment/payment2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/procurementTransit/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/procurementTransit/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/procurementTransit/Transit2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/procurementTransit/Transit2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/purchaseOrder/2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/purchaseOrder/2020-12-09.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/purchaseOrder/purchaseOrder2020-12-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/purchaseOrder/purchaseOrder2020-12-09.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/payment/__pycache__/sem_payment.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/setting/payment/__pycache__/sem_payment.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/payment/sem_payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/payment/sem_payment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/procurementTransit/sem_procurementTransit.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/procurementTransit/sem_procurementTransit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/purchaseOrder/sem_purchaseOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/purchaseOrder/sem_purchaseOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/MoveMoney/MoveMoney.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/MoveMoney/MoveMoney.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/ReturnShelfOrder/ReturnShelfOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/ReturnShelfOrder/ReturnShelfOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/UpShelfOrder/UpShelfOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/UpShelfOrder/UpShelfOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/WarehouseReceipt/Warehouse_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/Warehouse_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/latestOverseasWarehouse/__pycache__/latestOverseasWarehouse.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/latestOverseasWarehouse/__pycache__/latestOverseasWarehouse.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/latestOverseasWarehouse/latestOverseasWarehouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/latestOverseasWarehouse/latestOverseasWarehouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/payment/__pycache__/payment.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/payment/__pycache__/payment.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/payment/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/payment/payment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/procurementTransit/procurementTransit.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/procurementTransit/procurementTransit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/purchaseOrder/purchaseOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/purchaseOrder/purchaseOrder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,8 +72,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -131,11 +84,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../HttpRunner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../request_influence" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -298,6 +252,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="" />
@@ -311,7 +268,8 @@
       <workItem from="1607475017221" duration="5027000" />
       <workItem from="1607480614367" duration="2483000" />
       <workItem from="1607483494608" duration="7901000" />
-      <workItem from="1607496074157" duration="6440000" />
+      <workItem from="1607496074157" duration="8378000" />
+      <workItem from="1607561579781" duration="2355000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -362,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607494681287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Runner_report">
+      <created>1607503253955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607503253955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +336,36 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Tools/git/selenium_ui/report" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -386,7 +381,8 @@
     <MESSAGE value="WarehouseReceipt" />
     <MESSAGE value="All Receipt" />
     <MESSAGE value="Runner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Runner" />
+    <MESSAGE value="Runner_report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Runner_report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +396,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium_ui$payment.coverage" NAME="payment 覆盖结果" MODIFIED="1607503176888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$UpShelfOrder_UpShelfOrder__pytest.coverage" NAME="UpShelfOrder.UpShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500286321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/UpShelfOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$MoveMoney_MoveMoney__pytest.coverage" NAME="MoveMoney.MoveMoney 的 pytest 覆盖结果" MODIFIED="1607499985870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/MoveMoney" />
     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_py__pytest.coverage" NAME="Warehouse_test.py 中的 pytest 覆盖结果" MODIFIED="1607499881588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
@@ -418,6 +415,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$run.coverage" NAME="run 覆盖结果" MODIFIED="1607502990362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607484733795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt.coverage" NAME="sem_WarehouseReceipt 覆盖结果" MODIFIED="1607433276631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse.coverage" NAME="latestOverseasWarehouse 覆盖结果" MODIFIED="1607503187394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$debug.coverage" NAME="debug 覆盖结果" MODIFIED="1607484615175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1607478290653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_latestOverseasWarehouse.coverage" NAME="sem_latestOverseasWarehouse 覆盖结果" MODIFIED="1607499843676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/latestOverseasWarehouse" />
