@@ -24,7 +24,7 @@ class ParamsTest:
 
     def purchaseorder(self):
         '''采购单'''
-        purchaseorder = 'NCG2020112600007'
+        purchaseorder = 'NCG2020121400045'
         return purchaseorder
 
     def warehousereceipt(self):
