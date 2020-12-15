@@ -11,12 +11,12 @@ from time import sleep
 class Sem_PurchaseOrder:
 
     def __init__(self):
-        '''
+        """
         运营管理系统
         供应链管理
         库存管理
         入库单管理  -----   打开采购单页面
-        '''
+        """
         self.url = 'http://sem.test.vevor.net/scp/purchase/purchaseOrder'
 
     def PurchaseOrder(self):

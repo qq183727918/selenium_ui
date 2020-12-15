@@ -23,8 +23,8 @@ class ParamsTest:
         return transit
 
     def purchaseorder(self):
-        '''采购单'''
-        purchaseorder = 'NCG2020121400045'
+        """采购单"""
+        purchaseorder = 'NCG2020121500102'
         return purchaseorder
 
     def warehousereceipt(self):
