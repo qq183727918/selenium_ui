@@ -20,9 +20,9 @@ class Sem_PurchaseOrder:
         self.url = 'http://sem.test.vevor.net/scp/purchase/purchaseOrder'
 
     def PurchaseOrder(self):
-        '''
-        定义driver 
-        '''''
+        """
+        定义driver
+        """
         self.po = slt()
 
         driver = self.po.sem_login()

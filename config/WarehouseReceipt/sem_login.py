@@ -10,6 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+
 class Sem_Login_Test:
 
     def __init__(self):
@@ -23,7 +24,7 @@ class Sem_Login_Test:
 
         self.name = 'liuxiaoqiang'
 
-        self.pwd = '!sishun666'
+        self.pwd = 'lxqiang95+'
 
         self.name_id = 'username'
 
@@ -46,11 +47,12 @@ class Sem_Login_Test:
         driver.find_element_by_id(self.pwd_id).send_keys(self.pwd)
         sleep(0.5)
         driver.find_element_by_xpath(self.login).click()
-        sleep(0.5)
+        sleep(1)
+        token = driver.execute_script('return localStorage.getItem("token");')
+        print(token)
 
-        # driver.get('http://sem.test.vevor.net/scp/Inventory/WarehouseReceipt')
-        # sleep(5)
-        return driver
+        return driver, token
+
 
 if __name__ == '__main__':
     slt = Sem_Login_Test()
