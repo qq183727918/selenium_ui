@@ -49,6 +49,21 @@ class PayMent:
         data = re["data"]
         noTicketToPay = 0
         ticketToPayment = 0
+        lists = []
+        for k in data:
+            dict = {
+                "paymentAmount": "",
+                "attributeName": ""
+            }
+            # 付款单金额
+            paymentAmount = k["paymentAmount"]
+            # 付款单属性（无票可付、票到付款）
+            attributeName = k["attributeName"]
+            dict["paymentAmount"] = paymentAmount
+            dict["attributeName"] = attributeName
+            lists.append(dict)
+        print(lists)
+
         for i in data:
             if i["attributeName"] == "无票可付":
                 noTicketToPay += 1
@@ -56,7 +71,7 @@ class PayMent:
                 ticketToPayment += 1
             else:
                 print('该属性错误')
-        print(f"无票可付:{noTicketToPay}", f"票到付款:{ticketToPayment}")
+        # print(f"无票可付:{noTicketToPay}", f"票到付款:{ticketToPayment}")
 
         return noTicketToPay, ticketToPayment
 

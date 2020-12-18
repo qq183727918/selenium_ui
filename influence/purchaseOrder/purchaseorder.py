@@ -10,6 +10,12 @@ from params.sem_params import ParamsTest
 
 class PurchaseOrderParams:
 
+    def __init__(self):
+        self.pirc = ''
+        self.tax = ''
+        self.procurementSupplierId = ''
+        self.orderType = ''
+
     def orderparams(self):
         token = ParamsTest().token()
         purchaseSn = ParamsTest().purchaseorder()
@@ -38,16 +44,21 @@ class PurchaseOrderParams:
         import pprint
         pprint.pprint(re)
         # 采购总价
-        pirc = re["data"]["list"][0]["purchasePriceAll"]
+        self.pirc = re["data"]["list"][0]["purchasePriceAll"]
         # 是否含税
-        tax = re["data"]["list"][0]["tax"]
+        self.tax = re["data"]["list"][0]["tax"]
         # 供应商ID
-        procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
+        self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
         # 采购单类型
-        orderType = re["data"]["list"][0]["orderType"]
-        print(pirc)
+        self.orderType = re["data"]["list"][0]["orderType"]
+        # print(self.pirc)
 
-        return pirc, tax, procurementSupplierId, orderType
+    def params(self):
+        dicts = {"pirc": self.pirc,
+                 "tax": self.tax,
+                 "procurementSupplierId": self.procurementSupplierId,
+                 "orderType": self.orderType}
+        return dicts
 
 
 if __name__ == '__main__':

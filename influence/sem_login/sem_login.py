@@ -28,7 +28,7 @@ class SemLoginTest:
 
         token = re["data"]["access_token"]
 
-        print(token)
+        # print(token)
 
         return token
 

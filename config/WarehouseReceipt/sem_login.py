@@ -48,10 +48,7 @@ class Sem_Login_Test:
         sleep(0.5)
         driver.find_element_by_xpath(self.login).click()
         sleep(1)
-        token = driver.execute_script('return localStorage.getItem("token");')
-        print(token)
-
-        return driver, token
+        return driver
 
 
 if __name__ == '__main__':

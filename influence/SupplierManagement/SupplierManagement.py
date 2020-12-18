@@ -7,20 +7,44 @@
 import requests
 import pprint
 from params.sem_params import ParamsTest
+from influence.purchaseOrder.purchaseorder import PurchaseOrderParams
 
-token = ParamsTest().token()
-purchaseSn = ParamsTest().purchaseorder()
-url = 'https://gateway.test.vevor.net/scp-procurement-service/controller-supplierService/front/getSupplierDetail?supplierId=3072'
-headers = {
-    "Content-Type": "application/x-www-form-urlencoded",
-    "Authorization": token
-}
-respon = requests.get(url, headers=headers)
 
-re = respon.json()
+class SupplierMent:
+    def supplierparams(self):
+        token = ParamsTest().token()
+        dicts = PurchaseOrderParams().params()
+        procurementSupplierId = dicts["procurementSupplierId"]
+        url = 'https://gateway.test.vevor.net/scp-procurement-service/controller-supplierService/front/getSupplierDetail'
+        params = {
+            "supplierId": procurementSupplierId
+        }
+        headers = {
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Authorization": token
+        }
+        respon = requests.get(url, headers=headers, json=params)
 
-pprint.pprint(re)
-data = re['payOne']
-data1 = re['payThree']
-data2 = re['payTwo']
+        re = respon.json()
 
+        pprint.pprint(re)
+
+        dictsa = {
+            # 第一笔付款比例
+            'payOne': re['payOne'],
+            # 第二笔付款比例
+            'payTwo': re['payTwo'],
+            # 第三笔付款比例
+            'payThree': re['payThree'],
+            # 是否票到付尾款
+            'isArrivalPay': re["isArrivalPay"],
+            # 限制金额
+            'limitAmount': re["limitAmount"]
+        }
+
+        return dictsa
+
+
+if __name__ == '__main__':
+    sem = SupplierMent()
+    sem.supplierparams()
