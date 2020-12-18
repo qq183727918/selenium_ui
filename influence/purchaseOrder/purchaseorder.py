@@ -42,7 +42,7 @@ class PurchaseOrderParams:
 
         re = response.json()
         import pprint
-        pprint.pprint(re)
+        # pprint.pprint(re)
         # 采购总价
         self.pirc = re["data"]["list"][0]["purchasePriceAll"]
         # 是否含税
@@ -54,6 +54,7 @@ class PurchaseOrderParams:
         # print(self.pirc)
 
     def params(self):
+        self.orderparams()
         dicts = {"pirc": self.pirc,
                  "tax": self.tax,
                  "procurementSupplierId": self.procurementSupplierId,

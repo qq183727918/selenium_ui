@@ -47,8 +47,6 @@ class PayMent:
         # pprint.pprint(re)
 
         data = re["data"]
-        noTicketToPay = 0
-        ticketToPayment = 0
         lists = []
         for k in data:
             dict = {
@@ -62,18 +60,18 @@ class PayMent:
             dict["paymentAmount"] = paymentAmount
             dict["attributeName"] = attributeName
             lists.append(dict)
-        print(lists)
+        # print(lists)
 
-        for i in data:
-            if i["attributeName"] == "无票可付":
-                noTicketToPay += 1
-            elif i["attributeName"] == "票到付款":
-                ticketToPayment += 1
-            else:
-                print('该属性错误')
+        # for i in data:
+        #     if i["attributeName"] == "无票可付":
+        #         noTicketToPay += 1
+        #     elif i["attributeName"] == "票到付款":
+        #         ticketToPayment += 1
+        #     else:
+        #         print('该属性错误')
         # print(f"无票可付:{noTicketToPay}", f"票到付款:{ticketToPayment}")
 
-        return noTicketToPay, ticketToPayment
+        return lists
 
 
 if __name__ == '__main__':
