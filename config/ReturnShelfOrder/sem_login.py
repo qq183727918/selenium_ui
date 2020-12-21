@@ -9,17 +9,21 @@ from time import sleep
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from params.sem_params import ParamsTest
+
 
 class Sem_Login_Test:
 
     def __init__(self):
-        '''
+        """
         运营管理系统  -----   登录操作
         供应链管理
         库存管理
         入库单管理
-        '''
-        self.url = 'http://sem.test.vevor.net/login'
+        """
+        self.urla = ParamsTest().seleniumurl()
+
+        self.url = f'{self.urla}login'
 
         self.name = 'liuxiaoqiang'
 
@@ -51,6 +55,7 @@ class Sem_Login_Test:
         # driver.get('http://sem.test.vevor.net/scp/Inventory/WarehouseReceipt')
         # sleep(5)
         return driver
+
 
 if __name__ == '__main__':
     slt = Sem_Login_Test()

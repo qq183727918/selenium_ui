@@ -9,6 +9,7 @@ from time import sleep
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from params.sem_params import ParamsTest
 
 class Sem_Login_Test:
 
@@ -19,7 +20,8 @@ class Sem_Login_Test:
         库存管理
         入库单管理
         '''
-        self.url = 'http://sem.test.vevor.net/login'
+        self.urla = ParamsTest().seleniumurl()
+        self.url = f'{self.urla}login'
 
         self.name = 'liuxiaoqiang'
 

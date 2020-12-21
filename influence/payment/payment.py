@@ -5,16 +5,17 @@
 # @File     : payment.py
 # @Software : PyCharm
 import requests
-import pprint
+from params.sem_params import ParamsTest
 from params.sem_params import ParamsTest
 
 
 class PayMent:
 
     def paymentest(self):
+        self.urla = ParamsTest().urls()
         token = ParamsTest().token()
         purchaseSn = ParamsTest().purchaseorder()
-        url = "https://gateway.test.vevor.net/scp-procurement-service/controller-procurementPaymentOpsService/front/getList"
+        url = f"{self.urla}/controller-procurementPaymentOpsService/front/getList"
 
         querystring = {
             "status": "",

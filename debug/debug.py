@@ -5,10 +5,17 @@
 # @File     : debug.py
 # @Software : PyCharm
 
-from influence.payment.payment import PayMent
+# from influence.payment.payment import PayMent
+#
+# sem = PayMent()
+# noTicketToPay = sem.paymentest()[0]
+# ticketToPayment = sem.paymentest()[1]
+# print(noTicketToPay)
+# print(ticketToPayment)
+i = 1
+if i % 2 == 0:
+    a = 5
+else:
+    a = 4
 
-sem = PayMent()
-noTicketToPay = sem.paymentest()[0]
-ticketToPayment = sem.paymentest()[1]
-print(noTicketToPay)
-print(ticketToPayment)
+print(a)

@@ -6,6 +6,7 @@
 # @Software : PyCharm
 from influence.sem_login.sem_login import SemLoginTest
 
+
 class ParamsTest:
 
     def movemoney(self):
@@ -49,8 +50,19 @@ class ParamsTest:
         return latestoverseas
 
     def token(self):
+        """token"""
         tokens = SemLoginTest()
         tokena = tokens.semtoken()
-        """token"""
         tokens = f'Bearer {tokena}'
         return tokens
+
+    def urls(self):
+        """请求头"""
+        url = 'https://gatewaypre.vevor.net/scp-procurement-service'
+
+        return url
+
+    def seleniumurl(self):
+        """selenium url"""
+        url_ui = 'http://sem.pre.vevor.net/'
+        return url_ui

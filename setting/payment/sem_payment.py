@@ -6,18 +6,19 @@
 # @Software : PyCharm
 from config.payment.sem_login import Sem_Login_Test as slt
 from time import sleep
-
+from params.sem_params import ParamsTest
 
 class Sem_Payment:
 
     def __init__(self):
-        '''
+        """
         运营管理系统
         供应链管理
         库存管理
         入库单管理  -----   打开付款单页面
-        '''
-        self.url = 'http://sem.test.vevor.net/scp/purchase/payment'
+        """
+        self.urla = ParamsTest().seleniumurl()
+        self.url = f'{self.urla}scp/purchase/payment'
 
     def Payment(self):
         '''

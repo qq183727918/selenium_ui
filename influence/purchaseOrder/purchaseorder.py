@@ -30,8 +30,9 @@ class PurchaseOrderParams:
             "groupId": "",
             "purchaseSn": purchaseSn
         }
+        self.urla = ParamsTest().urls()
 
-        url = "https://gateway.test.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/getPurchaseOrderList"
+        url = f"{self.urla}/controller-purchaseOrderService/front/getPurchaseOrderList"
 
         headers = {
             "Content-Type": "application/x-www-form-urlencoded",
@@ -42,16 +43,19 @@ class PurchaseOrderParams:
 
         re = response.json()
         import pprint
-        # pprint.pprint(re)
-        # 采购总价
-        self.pirc = re["data"]["list"][0]["purchasePriceAll"]
-        # 是否含税
-        self.tax = re["data"]["list"][0]["tax"]
-        # 供应商ID
-        self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
-        # 采购单类型
-        self.orderType = re["data"]["list"][0]["orderType"]
-        # print(self.pirc)
+        pprint.pprint(re)
+        try:
+            # 采购总价
+            self.pirc = re["data"]["list"][0]["purchasePriceAll"]
+            # 是否含税
+            self.tax = re["data"]["list"][0]["tax"]
+            # 供应商ID
+            self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
+            # 采购单类型
+            self.orderType = re["data"]["list"][0]["orderType"]
+            # print(self.pirc)
+        except Exception as e:
+            print(e)
 
     def params(self):
         self.orderparams()

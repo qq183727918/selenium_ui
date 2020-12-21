@@ -6,7 +6,7 @@
 # @Software : PyCharm
 from config.UpShelfOrder.sem_login import Sem_Login_Test as slt
 from time import sleep
-
+from params.sem_params import ParamsTest
 
 class Sem_UpShelfOrder:
 
@@ -17,7 +17,8 @@ class Sem_UpShelfOrder:
         库存管理
         入库单管理  -----   打开上架单页面
         '''
-        self.url = 'http://sem.test.vevor.net/scp/Inventory/UpShelfOrder'
+        self.urla = ParamsTest().seleniumurl()
+        self.url = f'{self.urla}scp/Inventory/UpShelfOrder'
 
     def UpShelfOrder(self):
         '''

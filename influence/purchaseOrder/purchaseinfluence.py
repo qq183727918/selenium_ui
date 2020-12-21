@@ -5,8 +5,10 @@
 # @File     : purchaseinfluence.py
 # @Software : PyCharm
 import requests
+from params.sem_params import ParamsTest
 
-url = "https://gateway.test.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/addPurchaseOrder"
+urla = ParamsTest().urls()
+url = f"{urla}/controller-purchaseOrderService/front/addPurchaseOrder"
 
 payload = [{
     "billSource": 1,

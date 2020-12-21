@@ -6,7 +6,7 @@
 # @Software : PyCharm
 from config.purchaseOrder.sem_login import Sem_Login_Test as slt
 from time import sleep
-
+from params.sem_params import ParamsTest
 
 class Sem_PurchaseOrder:
 
@@ -17,7 +17,8 @@ class Sem_PurchaseOrder:
         库存管理
         入库单管理  -----   打开采购单页面
         """
-        self.url = 'http://sem.test.vevor.net/scp/purchase/purchaseOrder'
+        self.urla = ParamsTest().seleniumurl()
+        self.url = f'{self.urla}scp/purchase/purchaseOrder'
 
     def PurchaseOrder(self):
         """

@@ -5,6 +5,7 @@
 # @File     : sem_login.py
 # @Software : PyCharm
 import requests
+from params.sem_params import ParamsTest
 
 
 class SemLoginTest:
@@ -15,11 +16,14 @@ class SemLoginTest:
             "grant_type": "password"
         }
 
-        url = "https://gateway.test.vevor.net/center-user-service/controller-authLoginController/login"
+        self.urla = ParamsTest().urls()
+
+        url = f"{self.urla}/controller-authLoginController/login?username=liuxiaoqiang&password=c90a3167151be42f910045215f6aac96&grant_type=password"
 
         headers = {
             "Content-Type": "application/x-www-form-urlencoded",
-            "Authorization": "Basic YXV0aDoxMjM="
+            "Authorization": "Basic YXV0aDoxMjM=",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
         }
 
         response = requests.post(url, headers=headers, params=querystring)
@@ -28,7 +32,7 @@ class SemLoginTest:
 
         token = re["data"]["access_token"]
 
-        # print(token)
+        print(token)
 
         return token
 

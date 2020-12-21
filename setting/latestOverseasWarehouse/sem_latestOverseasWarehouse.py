@@ -6,19 +6,21 @@
 # @Software : PyCharm
 from config.latestOverseasWarehouse.sem_login import Sem_Login_Test as slt
 from time import sleep
+from params.sem_params import ParamsTest
 
 
 # noinspection PyPep8Naming
 class Sem_LatestOverseasWarehouse:
 
     def __init__(self):
-        '''
+        """
         运营管理系统
         供应链管理
         库存管理
         入库单管理  -----   打开最新海外仓页面
-        '''
-        self.url = 'http://sem.test.vevor.net/scp/purchase/latestOverseasWarehouse'
+        """
+        self.urla = ParamsTest().seleniumurl()
+        self.url = f'{self.urla}scp/purchase/latestOverseasWarehouse'
 
     # noinspection PyPep8Naming
     def LatestOverseasWarehouse(self):
