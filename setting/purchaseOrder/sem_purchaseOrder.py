@@ -17,7 +17,7 @@ class Sem_PurchaseOrder:
         库存管理
         入库单管理  -----   打开采购单页面
         """
-        self.urla = ParamsTest().seleniumurl()
+        self.urla = ParamsTest().url_pre()
         self.url = f'{self.urla}scp/purchase/purchaseOrder'
 
     def PurchaseOrder(self):

@@ -8,7 +8,6 @@ import requests
 from params.sem_params import ParamsTest
 from params.sem_params import ParamsTest
 
-
 class PayMent:
 
     def paymentest(self):
@@ -61,16 +60,6 @@ class PayMent:
             dict["paymentAmount"] = paymentAmount
             dict["attributeName"] = attributeName
             lists.append(dict)
-        # print(lists)
-
-        # for i in data:
-        #     if i["attributeName"] == "无票可付":
-        #         noTicketToPay += 1
-        #     elif i["attributeName"] == "票到付款":
-        #         ticketToPayment += 1
-        #     else:
-        #         print('该属性错误')
-        # print(f"无票可付:{noTicketToPay}", f"票到付款:{ticketToPayment}")
 
         return lists
 

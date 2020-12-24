@@ -4,6 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : purchaseordertest.py
 # @Software : PyCharm
+
 from influence.SupplierManagement.SupplierManagement import SupplierMent
 from influence.payment.payment import PayMent
 from influence.purchaseOrder.purchaseorder import PurchaseOrderParams
@@ -25,6 +26,7 @@ for i in semp:
         print('该属性错误')
 print(noTicketToPay)
 print(ticketToPayment)
+
 # 采购单
 sempurchaseorder = PurchaseOrderParams()
 sempo = sempurchaseorder.params()
@@ -93,7 +95,7 @@ elif tax == 1:  # 不含税
                         print('采购单生成付款单正确')
                     else:
                         print('采购单生成的付款单不正确')
-                else:   # 大于等于限制金额
+                else:  # 大于等于限制金额
                     # 第一笔第二笔合成一笔无票可付  第三笔生成票到付款
                     if noTicketToPay == 1 and ticketToPayment == 0:
                         print('采购单生成付款单正确')
@@ -111,4 +113,3 @@ elif tax == 1:  # 不含税
             print('采购价错误')
 else:
     print('是否含税类型错误')
-

@@ -30,7 +30,7 @@ class WareHouseTest:
 
     # 打开入库单页面
     def openTheWarehouseReceipt(self):
-        params = self.params()
+        params = self.params_ams()
 
         self.wait.until(expected_conditions.presence_of_element_located((By.XPATH, "//div[text()='供应链管理']")))
 
@@ -99,7 +99,8 @@ class WareHouseTest:
         self.select_test()
         self.driver.find_element_by_xpath("(//button[@type='button'])[2]").click()
 
-
+if __name__=='__main':
+    sem = WareHouseTest().select_test()
 
 
 

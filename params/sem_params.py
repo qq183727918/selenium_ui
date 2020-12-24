@@ -4,8 +4,6 @@
 # @Site     : https://github.com/qq183727918
 # @File     : params.py
 # @Software : PyCharm
-from influence.sem_login.sem_login import SemLoginTest
-
 
 class ParamsTest:
 
@@ -26,7 +24,7 @@ class ParamsTest:
 
     def purchaseorder(self):
         """采购单"""
-        purchaseorder = 'NCG2020121700081'
+        purchaseorder = 'NCG2020122300452'
         return purchaseorder
 
     def warehousereceipt(self):
@@ -51,6 +49,7 @@ class ParamsTest:
 
     def token(self):
         """token"""
+        from influence.sem_login.sem_login import SemLoginTest
         tokens = SemLoginTest()
         tokena = tokens.semtoken()
         tokens = f'Bearer {tokena}'
@@ -62,7 +61,12 @@ class ParamsTest:
 
         return url
 
-    def seleniumurl(self):
+    def url_test(self):
         """selenium url"""
-        url_ui = 'http://sem.pre.vevor.net/'
-        return url_ui
+        url_test = 'http://sem.test.vevor.net/'
+        return url_test
+
+    def url_pre(self):
+        """selenium url"""
+        url_pre = 'http://sem.pre.vevor.net/'
+        return url_pre

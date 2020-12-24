@@ -17,7 +17,7 @@ class Sem_ReturnShelfOrder:
         库存管理
         入库单管理  -----   打开返架单页面
         """
-        self.urla = ParamsTest().seleniumurl()
+        self.urla = ParamsTest().url_test()
         self.url = f'{self.urla}scp/Inventory/ReturnShelfOrder'
 
     def ReturnShelfOrder(self):

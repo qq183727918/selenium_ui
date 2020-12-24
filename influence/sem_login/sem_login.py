@@ -11,17 +11,15 @@ from params.sem_params import ParamsTest
 class SemLoginTest:
     def semtoken(self):
         querystring = {
-            "username": "liuxiaoqiang",
+            "username": "liuxiaoqiang1",
             "password": "c90a3167151be42f910045215f6aac96",
             "grant_type": "password"
         }
-
-        self.urla = ParamsTest().urls()
-
-        url = f"{self.urla}/controller-authLoginController/login?username=liuxiaoqiang&password=c90a3167151be42f910045215f6aac96&grant_type=password"
+        self.url_pre = ParamsTest().url_pre()
+        url = f"{self.url_pre}center-user-service/controller-authLoginController/login?username=liuxiaoqiang1&password=c90a3167151be42f910045215f6aac96&grant_type=password"
 
         headers = {
-            "Content-Type": "application/x-www-form-urlencoded",
+            "Content-Type": "application/json",
             "Authorization": "Basic YXV0aDoxMjM=",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
         }
@@ -30,11 +28,13 @@ class SemLoginTest:
 
         re = response.json()
 
-        token = re["data"]["access_token"]
+        print(re)
 
-        print(token)
+        # token = re["data"]["access_token"]
 
-        return token
+        # print(token)
+        #
+        # return token
 
 
 if __name__ == '__main__':

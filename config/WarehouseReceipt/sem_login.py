@@ -20,7 +20,7 @@ class Sem_Login_Test:
         库存管理
         入库单管理
         """
-        self.urla = ParamsTest().seleniumurl()
+        self.urla = ParamsTest().url_test()
 
         self.url = f'{self.urla}login'
 

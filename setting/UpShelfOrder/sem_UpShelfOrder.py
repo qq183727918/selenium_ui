@@ -17,7 +17,7 @@ class Sem_UpShelfOrder:
         库存管理
         入库单管理  -----   打开上架单页面
         '''
-        self.urla = ParamsTest().seleniumurl()
+        self.urla = ParamsTest().url_test()
         self.url = f'{self.urla}scp/Inventory/UpShelfOrder'
 
     def UpShelfOrder(self):

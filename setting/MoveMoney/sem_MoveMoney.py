@@ -17,7 +17,7 @@ class Sem_MoveMoney:
         库存管理
         入库单管理  -----   打开移款单页面
         """
-        self.urla = ParamsTest().seleniumurl()
+        self.urla = ParamsTest().url_test()
         self.url = f'{self.urla}/scp/purchase/MoveMoney'
 
     def MoveMoney(self):
