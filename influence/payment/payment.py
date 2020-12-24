@@ -5,16 +5,18 @@
 # @File     : payment.py
 # @Software : PyCharm
 import requests
+from influence.judgingThatTheTokenIsInvalid.judgingThatTheTokenIsInvalid import InviTation
 from params.sem_params import ParamsTest
-from params.sem_params import ParamsTest
+from file_pre.read_token import ReadToken
+
 
 class PayMent:
 
     def paymentest(self):
-        self.urla = ParamsTest().urls()
-        token = ParamsTest().token()
+        self.urla = ParamsTest().url_pre()
+        token = ReadToken().retoken()
         purchaseSn = ParamsTest().purchaseorder()
-        url = f"{self.urla}/controller-procurementPaymentOpsService/front/getList"
+        url = f"{self.urla}scp-procurement-service/controller-procurementPaymentOpsService/front/getList"
 
         querystring = {
             "status": "",
@@ -37,31 +39,43 @@ class PayMent:
 
         headers = {
             "Content-Type": "application/x-www-form-urlencoded",
-            "Authorization": token
+            "Authorization": f'Bearer {token}'
         }
 
         response = requests.get(url, headers=headers, params=querystring)
 
         re = response.json()
 
-        # pprint.pprint(re)
+        TheTokenValue = InviTation().token_code(re['code'])
 
-        data = re["data"]
-        lists = []
-        for k in data:
-            dict = {
-                "paymentAmount": "",
-                "attributeName": ""
-            }
-            # 付款单金额
-            paymentAmount = k["paymentAmount"]
-            # 付款单属性（无票可付、票到付款）
-            attributeName = k["attributeName"]
-            dict["paymentAmount"] = paymentAmount
-            dict["attributeName"] = attributeName
-            lists.append(dict)
+        if TheTokenValue == 200:
 
-        return lists
+            # pprint.pprint(re)
+
+            data = re["data"]
+            lists = []
+            for k in data:
+                dict = {
+                    "paymentAmount": "",
+                    "attributeName": ""
+                }
+                # 付款单金额
+                paymentAmount = k["paymentAmount"]
+                # 付款单属性（无票可付、票到付款）
+                attributeName = k["attributeName"]
+                dict["paymentAmount"] = paymentAmount
+                dict["attributeName"] = attributeName
+                lists.append(dict)
+
+            # print(lists)
+
+            return lists
+        elif TheTokenValue == 401:
+            self.paymentest()
+        elif TheTokenValue == '请找相关开发人员解决':
+            print('请找相关开发人员解决')
+        else:
+            print('请检查代码逻辑，谢谢')
 
 
 if __name__ == '__main__':

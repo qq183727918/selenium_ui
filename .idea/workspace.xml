@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_pre/read_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_pre/token.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/influence/WarehouseReceipt/__pycache__/warehousereceipt.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/influence/WarehouseReceipt/warehousereceipt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/judgingThatTheTokenIsInvalid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_pre/token.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file_pre/token.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/SupplierManagement/SupplierManagement.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/SupplierManagement/SupplierManagement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/SupplierManagement/__pycache__/SupplierManagement.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/SupplierManagement/__pycache__/SupplierManagement.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/payment/__pycache__/payment.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/payment/__pycache__/payment.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/payment/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/payment/payment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/purchaseOrder/__pycache__/purchaseorder.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/purchaseOrder/__pycache__/purchaseorder.cpython-38.pyc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/influence/purchaseOrder/purchaseorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/purchaseOrder/purchaseorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/influence/sem_login/sem_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/sem_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/params/sem_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/params/sem_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params/purchaseordertest.py" beforeDir="false" afterPath="$PROJECT_DIR$/params/purchaseordertest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +116,29 @@
       <recent name="D:\Tools\git\selenium_ui\report\payment" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.purchaseorder">
+  <component name="RunManager" selected="Python.purchaseordertest">
+    <configuration name="SupplierManagement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/SupplierManagement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/SupplierManagement/SupplierManagement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="judgingThatTheTokenIsInvalid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="purchaseinfluence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="payment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/purchaseOrder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/payment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/purchaseOrder/purchaseinfluence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/payment/payment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="purchaseordertest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,34 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_pre" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/params" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_pre/read_token.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="warehousereceipt (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/WarehouseReceipt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/WarehouseReceipt/warehousereceipt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/params/purchaseordertest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.purchaseordertest" />
+        <item itemvalue="Python.SupplierManagement" />
+        <item itemvalue="Python.payment" />
         <item itemvalue="Python.purchaseorder" />
         <item itemvalue="Python.judgingThatTheTokenIsInvalid" />
-        <item itemvalue="Python.warehousereceipt (1)" />
-        <item itemvalue="Python.purchaseinfluence" />
-        <item itemvalue="Python.read_token" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +304,7 @@
       <workItem from="1608619002166" duration="2866000" />
       <workItem from="1608639095650" duration="7249000" />
       <workItem from="1608731314369" duration="511000" />
-      <workItem from="1608769896671" duration="12873000" />
+      <workItem from="1608769896671" duration="17699000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -457,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608775943128</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[master]update procurorder">
+      <created>1608792354229</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608792354229</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +564,8 @@
     <MESSAGE value="updata influence and selenium url" />
     <MESSAGE value="[master]updata selenium_ui" />
     <MESSAGE value="[master]update selenium_ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]update selenium_ui" />
+    <MESSAGE value="[master]update procurorder" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]update procurorder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,7 +590,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$sem_procurementTransit.coverage" NAME="sem_procurementTransit 覆盖结果" MODIFIED="1607500055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/procurementTransit" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTets_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTets.test 的 pytest 覆盖结果" MODIFIED="1608172112765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest_test__pytest.coverage" NAME="Warehouse_test.WareHouseTest.test 的 pytest 覆盖结果" MODIFIED="1607577021721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
-    <SUITE FILE_PATH="coverage/selenium_ui$SupplierManagement.coverage" NAME="SupplierManagement 覆盖结果" MODIFIED="1608254615598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/SupplierManagement" />
+    <SUITE FILE_PATH="coverage/selenium_ui$SupplierManagement.coverage" NAME="SupplierManagement 覆盖结果" MODIFIED="1608794059928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/SupplierManagement" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage" NAME="sem_WarehouseReceipt (1) 覆盖结果" MODIFIED="1607484499131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrder__pytest.coverage" NAME="purchaseOrder.PurchaseOrder 的 pytest 覆盖结果" MODIFIED="1607581373358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse_test__pytest.coverage" NAME="latestOverseasWarehouse.LatestOverseasWarehouse.test 的 pytest 覆盖结果" MODIFIED="1607499943719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/latestOverseasWarehouse" />
@@ -599,7 +603,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt.coverage" NAME="sem_WarehouseReceipt 覆盖结果" MODIFIED="1607572493305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$123.coverage" NAME="123 覆盖结果" MODIFIED="1608705567417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1608776903961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/sem_login" />
-    <SUITE FILE_PATH="coverage/selenium_ui$payment.coverage" NAME="payment 覆盖结果" MODIFIED="1608771260345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/payment" />
+    <SUITE FILE_PATH="coverage/selenium_ui$payment.coverage" NAME="payment 覆盖结果" MODIFIED="1608792662185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/payment" />
     <SUITE FILE_PATH="coverage/selenium_ui$UpShelfOrder_UpShelfOrder__pytest.coverage" NAME="UpShelfOrder.UpShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500286321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/UpShelfOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$MoveMoney_MoveMoney__pytest.coverage" NAME="MoveMoney.MoveMoney 的 pytest 覆盖结果" MODIFIED="1607499985870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/MoveMoney" />
     <SUITE FILE_PATH="coverage/selenium_ui$pre.coverage" NAME="pre 覆盖结果" MODIFIED="1608705590915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
@@ -610,7 +614,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$ReturnShelfOrder_ReturnShelfOrder__pytest.coverage" NAME="ReturnShelfOrder.ReturnShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500202669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/ReturnShelfOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTest__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTest 的 pytest 覆盖结果" MODIFIED="1608773583784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login.coverage" NAME="sem_login 覆盖结果" MODIFIED="1608770866617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/purchaseOrder" />
-    <SUITE FILE_PATH="coverage/selenium_ui$purchaseordertest.coverage" NAME="purchaseordertest 覆盖结果" MODIFIED="1608723488732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
+    <SUITE FILE_PATH="coverage/selenium_ui$purchaseordertest.coverage" NAME="purchaseordertest 覆盖结果" MODIFIED="1608794974876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/params" />
     <SUITE FILE_PATH="coverage/selenium_ui$run.coverage" NAME="run 覆盖结果" MODIFIED="1608723569459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTest_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTest.test 的 pytest 覆盖结果" MODIFIED="1608773435581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse.coverage" NAME="latestOverseasWarehouse 覆盖结果" MODIFIED="1607503187394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />

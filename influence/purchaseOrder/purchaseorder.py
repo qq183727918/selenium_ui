@@ -53,16 +53,16 @@ class PurchaseOrderParams:
             try:
                 # 采购总价
                 self.pirc = re["data"]["list"][0]["purchasePriceAll"]
-                print(f'采购总价:{self.pirc}')
+                # print(f'采购总价:{self.pirc}')
                 # 是否含税
                 self.tax = re["data"]["list"][0]["tax"]
-                print(f'是否含税:{self.tax}')
+                # print(f'是否含税:{self.tax}')
                 # 供应商ID
                 self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
-                print(f'供应商ID:{self.procurementSupplierId}')
+                # print(f'供应商ID:{self.procurementSupplierId}')
                 # 采购单类型
                 self.orderType = re["data"]["list"][0]["orderType"]
-                print(f'采购单类型:{self.orderType}')
+                # print(f'采购单类型:{self.orderType}')
 
             except Exception as e:
                 print(e)
@@ -79,7 +79,6 @@ class PurchaseOrderParams:
                  "是否含税": self.tax,
                  "供应商ID": self.procurementSupplierId,
                  "采购单类型": self.orderType}
-        print(dicts)
         return dicts
 
 
