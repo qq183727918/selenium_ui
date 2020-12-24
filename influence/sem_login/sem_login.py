@@ -4,6 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : sem_login.py
 # @Software : PyCharm
+
 import requests
 from params.sem_params import ParamsTest
 
@@ -28,13 +29,16 @@ class SemLoginTest:
 
         re = response.json()
 
-        print(re)
+        # print(re)
 
-        # token = re["data"]["access_token"]
+        token = re["data"]["access_token"]
 
-        # print(token)
-        #
-        # return token
+        print(token)
+
+        with open(r'D:\Tools\git\selenium_ui\file_pre\token.txt', 'w')as f:
+            f.write(token)
+
+        return token
 
 
 if __name__ == '__main__':

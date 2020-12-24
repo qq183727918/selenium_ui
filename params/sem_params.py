@@ -68,5 +68,5 @@ class ParamsTest:
 
     def url_pre(self):
         """selenium url"""
-        url_pre = 'http://sem.pre.vevor.net/'
+        url_pre = 'http://gatewaypre.vevor.net/'
         return url_pre

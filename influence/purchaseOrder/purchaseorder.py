@@ -6,6 +6,8 @@
 # @Software : PyCharm
 import requests
 from params.sem_params import ParamsTest
+from file_pre.read_token import ReadToken
+from influence.judgingThatTheTokenIsInvalid.judgingThatTheTokenIsInvalid import InviTation
 
 
 class PurchaseOrderParams:
@@ -17,7 +19,7 @@ class PurchaseOrderParams:
         self.orderType = ''
 
     def orderparams(self):
-        token = ParamsTest().token()
+        token = ReadToken().retoken()
         purchaseSn = ParamsTest().purchaseorder()
         querystring = {
             "currentPage": "1",
@@ -30,42 +32,57 @@ class PurchaseOrderParams:
             "groupId": "",
             "purchaseSn": purchaseSn
         }
-        self.urla = ParamsTest().urls()
+        self.urla = ParamsTest().url_pre()
 
-        url = f"{self.urla}/controller-purchaseOrderService/front/getPurchaseOrderList"
+        url = f"{self.urla}scp-procurement-service/controller-purchaseOrderService/front/getPurchaseOrderList"
 
         headers = {
-            "Content-Type": "application/x-www-form-urlencoded",
-            "Authorization": token
+            "Content-Type": "application/json",
+            "Authorization": f'Bearer {token}'
         }
 
         response = requests.get(url, headers=headers, params=querystring)
 
         re = response.json()
-        import pprint
-        pprint.pprint(re)
-        try:
-            # 采购总价
-            self.pirc = re["data"]["list"][0]["purchasePriceAll"]
-            # 是否含税
-            self.tax = re["data"]["list"][0]["tax"]
-            # 供应商ID
-            self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
-            # 采购单类型
-            self.orderType = re["data"]["list"][0]["orderType"]
-            # print(self.pirc)
-        except Exception as e:
-            print(e)
+
+        TheTokenValue = InviTation().token_code(re['code'])
+
+        if TheTokenValue == 200:
+            # import pprint
+            # pprint.pprint(re)
+            try:
+                # 采购总价
+                self.pirc = re["data"]["list"][0]["purchasePriceAll"]
+                print(f'采购总价:{self.pirc}')
+                # 是否含税
+                self.tax = re["data"]["list"][0]["tax"]
+                print(f'是否含税:{self.tax}')
+                # 供应商ID
+                self.procurementSupplierId = re["data"]["list"][0]["procurementSupplierId"]
+                print(f'供应商ID:{self.procurementSupplierId}')
+                # 采购单类型
+                self.orderType = re["data"]["list"][0]["orderType"]
+                print(f'采购单类型:{self.orderType}')
+
+            except Exception as e:
+                print(e)
+        elif TheTokenValue == 401:
+            self.orderparams()
+        elif TheTokenValue == '请找相关开发人员解决':
+            print('请找相关开发人员解决')
+        else:
+            print('请检查代码逻辑，谢谢')
 
     def params(self):
         self.orderparams()
-        dicts = {"pirc": self.pirc,
-                 "tax": self.tax,
-                 "procurementSupplierId": self.procurementSupplierId,
-                 "orderType": self.orderType}
+        dicts = {"采购总价": self.pirc,
+                 "是否含税": self.tax,
+                 "供应商ID": self.procurementSupplierId,
+                 "采购单类型": self.orderType}
+        print(dicts)
         return dicts
 
 
 if __name__ == '__main__':
     pop = PurchaseOrderParams()
-    pop.orderparams()
+    pop.params()
