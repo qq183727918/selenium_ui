@@ -6,40 +6,38 @@
 # @Software : PyCharm
 
 import requests
+
 i = 0
-while True:
-    i += 1
-    print(f'第{i}循环')
-    if i % 2 == 0:
-        a = 5
-    else:
-        a = 4
+
+
+def fff():
     url = "https://gatewaypre.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/addPurchaseOrder"
 
     payload = [
         {
             'billSource': 1,
             'dateSource': 2,
-            'goodsId': 411,
-            'id': 12,
-            'orderType': a,
-            'procurementSupplierName': "深圳市凯信达能源技术有限公司",
-            'productCategory': 12,
-            'productName': "das 黑色",
-            'purchaseNumber': 100,
-            'purchasePrice': 1000,
-            'skuName': "das 黑色",
-            'skuOm': "HSBDDWCTDASQGU0D1V0",
+            'goodsId': 4,
+            'id': 4,
+            'orderType': 5,
+            'procurementSupplierName': "文登奥文电机有限公司",
+            'productCategory': 4,
+            'productName': '砂光机-12"圆盘砂光机V2',
+            'purchaseNumber': 1000,
+            'purchasePrice': 572.73,
+            'skuName': '砂光机-12"圆盘砂光机V2',
+            'skuOm': "YPSGJ-12V29H9K1KKV2",
             'tax': 1
         }]
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 954c0491-91e3-40da-a097-b5f4a3ad1509"
+        "Authorization": "Bearer f3e7a10b-c4bf-445c-bb21-c81eedd09222"
     }
 
     response = requests.request("POST", url, json=payload, headers=headers)
 
     print(response.text)
-    if i == 10:
-        break
+
+
+fff()
