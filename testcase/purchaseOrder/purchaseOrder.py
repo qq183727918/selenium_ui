@@ -7,7 +7,7 @@
 
 from selenium.webdriver import ActionChains
 from setting.purchaseOrder.sem_purchaseOrder import Sem_PurchaseOrder
-from influence.payment.payment import PayMent
+from testcase.determine.purchase_payment import JudgePaymentSlip
 from selenium.webdriver.common.keys import Keys
 from params.sem_params import ParamsTest
 from selenium.webdriver.support.wait import WebDriverWait
@@ -90,6 +90,8 @@ class PurchaseOrderTest(unittest.TestCase):
             # 点击生成付款单
             self.driver.find_element_by_xpath("//span[text()='生成付款单']").click()
             sleep(0.5)
+            # 判断付款单是否生成正确
+            JudgePaymentSlip().paymentslip()
             # 关闭
             self.driver.find_element_by_xpath('//*[@class="ant-modal-close-x"]/span').click()
             sleep(1)

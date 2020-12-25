@@ -4,6 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : 123.py
 # @Software : PyCharm
+
 import requests
 i = 0
 while True:
@@ -40,5 +41,5 @@ while True:
     response = requests.request("POST", url, json=payload, headers=headers)
 
     print(response.text)
-    if i == 50:
+    if i == 10:
         break

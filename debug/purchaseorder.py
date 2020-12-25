@@ -4,6 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : purchaseorder.py
 # @Software : PyCharm
+
 import requests
 
 i = 0
@@ -70,5 +71,5 @@ while True:
     response = requests.request("POST", url, json=payload, headers=headers)
 
     print(response.text)
-    if i == 50:
+    if i == 10:
         break
