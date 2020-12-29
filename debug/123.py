@@ -15,7 +15,7 @@ def fff():
 
     payload = [
         {
-            'billSource': 1,
+            'billSource': 0,
             'dateSource': 2,
             'goodsId': 11,
             'id': 11,
@@ -32,7 +32,7 @@ def fff():
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 47f06b97-9493-406c-b0d6-c52a0c1c3aa6"
+        "Authorization": "Bearer 09db02e6-b230-4582-9e09-0b0114fd7f32"
     }
 
     response = requests.request("POST", url, json=payload, headers=headers)
@@ -42,3 +42,6 @@ def fff():
 
 
 fff()
+
+
+
