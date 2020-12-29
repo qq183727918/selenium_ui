@@ -4,7 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : sem_latestOverseasWarehouse.py
 # @Software : PyCharm
-from config.latestOverseasWarehouse.sem_login import Sem_Login_Test as slt
+from config.sem_login.sem_login import Sem_Login_Test as slt
 from time import sleep
 from params.sem_params import ParamsTest
 

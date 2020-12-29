@@ -22,17 +22,34 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/20201228Dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/got" afterDir="false" />
+    <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="[master]scp inster[select]">
+      <change afterPath="$PROJECT_DIR$/config/sem_login/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/sem_login/sem_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/Workorder/Workorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/Workorder/Workorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/MoveMoney/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/MoveMoney/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ReturnShelfOrder/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ReturnShelfOrder/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/UpShelfOrder/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/UpShelfOrder/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/WarehouseReceipt/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/WarehouseReceipt/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/latestOverseasWarehouse/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/latestOverseasWarehouse/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/payment/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/payment/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/procurementTransit/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/procurementTransit/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/purchaseOrder/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/purchaseOrder/sem_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/latestOverseasWarehouse/sem_latestOverseasWarehouse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +110,8 @@
     </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -301,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="purchaseOrder.PurchaseOrder 的 pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
+    <configuration name="pytest for purchaseOrder.PurchaseOrder" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,7 +392,7 @@
       <workItem from="1609207060032" duration="253000" />
       <workItem from="1609207328419" duration="93000" />
       <workItem from="1609207458207" duration="343000" />
-      <workItem from="1609208011409" duration="3402000" />
+      <workItem from="1609208011409" duration="4844000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -559,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609213344412</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="[master]scp inster[select]">
+      <created>1609213889691</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1609213889691</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,10 +700,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="197" key="#Plugins/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609205988496" />
-    <state x="714" y="136" key="CommitChangelistDialog2" timestamp="1609213343237">
+    <state x="876" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609214318309">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="714" y="136" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213343237" />
+    <state x="876" y="357" key="#com.intellij.fileTypes.FileTypeChooser/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609214318309" />
+    <state x="714" y="136" key="CommitChangelistDialog2" timestamp="1609214288039">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="714" y="136" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609214288039" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1609213114377">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -708,10 +736,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609212289500" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609213664678">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609214295974">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213664678" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609214295974" />
+    <state x="749" y="92" width="549" height="927" key="find.popup" timestamp="1609214357982">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="749" y="92" width="549" height="927" key="find.popup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609214357982" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1609213253832">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -719,6 +751,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/config/sem_login/sem_login.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
