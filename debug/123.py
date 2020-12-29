@@ -17,27 +17,28 @@ def fff():
         {
             'billSource': 1,
             'dateSource': 2,
-            'goodsId': 4,
-            'id': 4,
-            'orderType': 5,
-            'procurementSupplierName': "文登奥文电机有限公司",
-            'productCategory': 4,
-            'productName': '砂光机-12"圆盘砂光机V2',
+            'goodsId': 11,
+            'id': 11,
+            'orderType': 4,
+            'procurementSupplierName': "枣庄市佳跃机械有限公司",
+            'productCategory': 11,
+            'productName': '研磨机-750w黑色刀片打磨机V1',
             'purchaseNumber': 1000,
-            'purchasePrice': 572.73,
-            'skuName': '砂光机-12"圆盘砂光机V2',
-            'skuOm': "YPSGJ-12V29H9K1KKV2",
+            'purchasePrice': 10000,
+            'skuName': '研磨机-750w黑色刀片打磨机V1',
+            'skuOm': "YMJ-750WHSDPDMJ01V1",
             'tax': 1
         }]
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer f3e7a10b-c4bf-445c-bb21-c81eedd09222"
+        "Authorization": "Bearer 47f06b97-9493-406c-b0d6-c52a0c1c3aa6"
     }
 
     response = requests.request("POST", url, json=payload, headers=headers)
 
     print(response.text)
+
 
 
 fff()
