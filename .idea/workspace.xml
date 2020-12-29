@@ -29,16 +29,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/setting/Gression/Gression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/LossOverflow/LossOverflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/Purchasereturn/Purchasereturn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/ShiftWarehouse/ShiftWarehouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/Workorder/Workorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/optlist/optlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/shiplit/shiplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting/transfer/transfer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/got" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/Workorder/Workorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/Workorder/Workorder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +63,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="20201218Dev" />
+                <branch-info repo="$PROJECT_DIR$" source="20201224Dev" />
+                <branch-info repo="$PROJECT_DIR$" source="20201224Test" />
+                <branch-info repo="$PROJECT_DIR$" source="20201228Dev" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/20201228Dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="刘晓强" />
@@ -358,7 +375,7 @@
       <workItem from="1609207060032" duration="253000" />
       <workItem from="1609207328419" duration="93000" />
       <workItem from="1609207458207" duration="343000" />
-      <workItem from="1609208011409" duration="2593000" />
+      <workItem from="1609208011409" duration="3402000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -535,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609202654892</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="[master]scp inster[select]">
+      <created>1609213344412</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1609213344412</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +606,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/20201228Dev" />
                       </list>
                     </value>
                   </entry>
@@ -640,7 +664,8 @@
     <MESSAGE value="[master]updata selenium_ui" />
     <MESSAGE value="[master]update selenium_ui" />
     <MESSAGE value="[master]update procurorder" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]update procurorder" />
+    <MESSAGE value="[master]scp inster[select]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]scp inster[select]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="762" y="379" key="#Notifications" timestamp="1609206283860">
@@ -651,6 +676,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="197" key="#Plugins/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609205988496" />
+    <state x="714" y="136" key="CommitChangelistDialog2" timestamp="1609213343237">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="714" y="136" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213343237" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1609213114377">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213114377" />
     <state width="2005" height="349" key="GridCell.Tab.0.bottom" timestamp="1609211940386">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -667,10 +700,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="349" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609211940385" />
+    <state x="854" y="258" key="RollbackChangesDialog" timestamp="1609213100891">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="854" y="258" key="RollbackChangesDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213100891" />
     <state x="526" y="201" key="SettingsEditor" timestamp="1609212289500">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609212289500" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609213664678">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213664678" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1609213253832">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213253832" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
