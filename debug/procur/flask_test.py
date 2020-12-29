@@ -5,9 +5,9 @@
 # @File     : flask_test.py
 # @Software : PyCharm
 
-from payment import PayMent
-from procurchase import PurchaseOrderParams
-from supplier import SupplierMent
+from debug.procur.payment import PayMent
+from debug.procur.procurchase import PurchaseOrderParams
+from debug.procur.supplier import SupplierMent
 from flask import Flask
 import flask
 import json

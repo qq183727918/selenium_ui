@@ -7,7 +7,7 @@
 import requests
 import pprint
 from params.sem_params import ParamsTest
-from procurchase import PurchaseOrderParams
+from debug.procur.procurchase import PurchaseOrderParams
 from file_pre.read_token import ReadToken
 from influence.judgingThatTheTokenIsInvalid.judgingThatTheTokenIsInvalid import InviTation
 
@@ -15,7 +15,6 @@ from influence.judgingThatTheTokenIsInvalid.judgingThatTheTokenIsInvalid import 
 class SupplierMent:
     def supplierparams(self, purchaseSn):
         token = ReadToken().retoken()
-
         dicts = PurchaseOrderParams().params(purchaseSn)
         urla = ParamsTest().selenium_url_pre()
         procurementSupplierId = dicts["供应商ID"]
@@ -57,7 +56,7 @@ class SupplierMent:
 
             return dictsa
         elif TheTokenValue == 401:
-            self.supplierparams()
+            self.supplierparams(purchaseSn)
         elif TheTokenValue == '请找相关开发人员解决':
             print('请找相关开发人员解决')
         else:
@@ -65,5 +64,6 @@ class SupplierMent:
 
 
 if __name__ == '__main__':
+    purchaseSn = ''
     sem = SupplierMent()
-    sem.supplierparams()
+    sem.supplierparams(purchaseSn)
