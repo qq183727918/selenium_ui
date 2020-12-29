@@ -55,18 +55,38 @@ class ParamsTest:
         tokens = f'Bearer {tokena}'
         return tokens
 
-    def urls(self):
-        """请求头"""
+    def request_url_pre(self):
+        """requests url pre"""
         url = 'https://gatewaypre.vevor.net/scp-procurement-service'
 
         return url
 
-    def url_test(self):
-        """selenium url"""
+    def request_url_test(self):
+        """requests url test"""
+        url = 'https://gatewaypreprod.vevor.net/scp-inventory-service'
+
+        return url
+
+    def request_url_sempreprod(self):
+        """requests url sempreprod"""
+        url = 'https://gatewaypre.vevor.net/scp-procurement-service'
+
+        return url
+
+    def selenium_url_test(self):
+        """selenium url test"""
         url_test = 'http://sem.test.vevor.net/'
+
         return url_test
 
-    def url_pre(self):
-        """selenium url"""
-        url_pre = 'http://gatewaypre.vevor.net/'
+    def selenium_url_pre(self):
+        """selenium url pre"""
+        url_pre = 'http://sem.pre.vevor.net/'
+
         return url_pre
+
+    def selenium_url_sempreprod(self):
+        """selenium url sempreprod"""
+        url_sempreprod = 'http://sempreprod.vevor.net/'
+
+        return url_sempreprod

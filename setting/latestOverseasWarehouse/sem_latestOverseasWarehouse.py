@@ -19,7 +19,7 @@ class Sem_LatestOverseasWarehouse:
         库存管理
         入库单管理  -----   打开最新海外仓页面
         """
-        self.urla = ParamsTest().url_test()
+        self.urla = ParamsTest().selenium_url_test()
         self.url = f'{self.urla}scp/purchase/latestOverseasWarehouse'
 
     # noinspection PyPep8Naming

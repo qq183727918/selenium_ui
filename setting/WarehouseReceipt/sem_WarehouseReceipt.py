@@ -4,7 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : sem_WarehouseReceipt.py
 # @Software : PyCharm
-from config.WarehouseReceipt.sem_login import Sem_Login_Test as slt
+from config.sem_login.sem_login import Sem_Login_Test as slt
 from time import sleep
 from params.sem_params import ParamsTest
 
@@ -22,7 +22,7 @@ class Sem_WarehouseReceipt:
         库存管理
         入库单管理  -----   打开入库单页面
         """
-        self.urla = ParamsTest().url_test()
+        self.urla = ParamsTest().selenium_url_test()
         self.url = f'{self.urla}scp/Inventory/WarehouseReceipt'
 
     def warehouse(self):

@@ -4,7 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : sem_procurementTransit.py
 # @Software : PyCharm
-from config.procurementTransit.sem_login import Sem_Login_Test as slt
+from config.sem_login.sem_login import Sem_Login_Test as slt
 from time import sleep
 from params.sem_params import ParamsTest
 
@@ -17,7 +17,7 @@ class Sem_ProcurementTransit:
         库存管理
         入库单管理  -----   打开在途单页面
         """
-        self.urla = ParamsTest().url_test()
+        self.urla = ParamsTest().selenium_url_test()
         self.url = f'{self.urla}scp/purchase/procurementTransit'
 
     def ProcurementTransit(self):

@@ -13,7 +13,7 @@ from file_pre.read_token import ReadToken
 class PayMent:
 
     def paymentest(self):
-        self.urla = ParamsTest().url_pre()
+        self.urla = ParamsTest().selenium_url_pre()
         token = ReadToken().retoken()
         purchaseSn = ParamsTest().purchaseorder()
         url = f"{self.urla}scp-procurement-service/controller-procurementPaymentOpsService/front/getList"

@@ -17,7 +17,7 @@ class SupplierMent:
         token = ReadToken().retoken()
 
         dicts = PurchaseOrderParams().params(purchaseSn)
-        urla = ParamsTest().url_pre()
+        urla = ParamsTest().selenium_url_pre()
         procurementSupplierId = dicts["供应商ID"]
         print(procurementSupplierId)
 

@@ -7,7 +7,7 @@
 import requests
 from params.sem_params import ParamsTest
 
-urla = ParamsTest().urls()
+urla = ParamsTest().request_url_pre()
 url = f"{urla}/controller-purchaseOrderService/front/addPurchaseOrder"
 
 payload = [{

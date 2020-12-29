@@ -16,7 +16,7 @@ class SemLoginTest:
             "password": "c90a3167151be42f910045215f6aac96",
             "grant_type": "password"
         }
-        self.url_pre = ParamsTest().url_pre()
+        self.url_pre = ParamsTest().selenium_url_pre()
         url = f"{self.url_pre}center-user-service/controller-authLoginController/login?username=liuxiaoqiang1&password=c90a3167151be42f910045215f6aac96&grant_type=password"
 
         headers = {
