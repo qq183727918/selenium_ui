@@ -44,36 +44,9 @@ class Transfer(unittest.TestCase):
         self.driver.find_element_by_xpath("//input[@placeholder='结束日期']").click()
         self.driver.find_element_by_xpath("//input[@placeholder='结束日期']").send_keys('2020-12-30')
         self.driver.find_element_by_xpath("(//div[text()='30'])[2]").click()
-        # 预计装柜时间
-        # self.frames('创建时间')
-        self.timeFrame('创建时间')
-        self.driver.find_element_by_xpath("//div[text()='预计装柜时间']").click()
-        # 实际装柜时间
-        self.frames('预计装柜时间')
-        self.timeFrame('预计装柜时间')
-        self.driver.find_element_by_xpath("//div[text()='实际装柜时间']").click()
-        # 预计离港时间
-        self.frames('实际装柜时间')
-        self.timeFrame('实际装柜时间')
-        self.driver.find_element_by_xpath("//div[text()='预计离港时间']").click()
-        # 实际离港时间
-        self.frames('预计离港时间')
-        self.timeFrame('预计离港时间')
-        self.driver.find_element_by_xpath("//div[text()='实际离港时间']").click()
-        # 预计到港时间
-        self.frames('实际离港时间')
-        self.timeFrame('实际离港时间')
-        self.driver.find_element_by_xpath("//div[text()='预计到港时间']").click()
-        # 实际到港时间
-        self.frames('预计到港时间')
-        self.timeFrame('预计到港时间')
-        self.driver.find_element_by_xpath("//div[text()='实际到港时间']").click()
-        # 实际上架时间
-        self.frames('实际到港时间')
-        self.timeFrame('实际到港时间')
-        self.driver.find_element_by_xpath("//div[text()='实际上架时间']").click()
+
         # 点击查询
-        # self.select()
+        self.select()
 
         sleep(13)
 
