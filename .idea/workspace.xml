@@ -29,15 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/debug/1234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug/155.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug/b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug/gray-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug/tesseract.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/tesseract.py" afterDir="false" />
-    </list>
+    <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,12 +86,6 @@
       <list>
         <option value="刘晓强" />
       </list>
-    </option>
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -374,7 +360,7 @@
       <workItem from="1609222436566" duration="12393000" />
       <workItem from="1609243912231" duration="2149000" />
       <workItem from="1609288041924" duration="3317000" />
-      <workItem from="1609291669976" duration="6357000" />
+      <workItem from="1609291669976" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -600,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609292233139</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="[master]tesseract">
+      <created>1609316972413</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609316972413</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -711,10 +704,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="[master]tesseract" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="762" y="379" key="#Notifications" timestamp="1609293072094">
+    <state x="762" y="379" key="#Notifications" timestamp="1609317265382">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="762" y="379" key="#Notifications/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609293072094" />
+    <state x="762" y="379" key="#Notifications/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609317265382" />
     <state x="617" y="197" key="#Plugins" timestamp="1609205988496">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -727,10 +720,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="651" y="235" key="#检查/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609222184076" />
-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1609292232245">
+    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1609316971234">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609292232244" />
+    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609316971234" />
     <state width="370" height="442" key="Diff.GoToChangePopup" timestamp="1609231290009">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -779,10 +772,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="848" y="253" key="VCS.ChangeListViewerDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609231315770" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609292238754">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609317241194">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609292238754" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609317241194" />
     <state x="485" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609227390840">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
