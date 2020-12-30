@@ -4,7 +4,7 @@
 # @Site     : https://github.com/qq183727918
 # @File     : 123.py
 # @Software : PyCharm
-
+import pytesseract
 import requests
 
 i = 0
@@ -17,31 +17,27 @@ def fff():
         {
             'billSource': 0,
             'dateSource': 2,
-            'goodsId': 11,
-            'id': 11,
-            'orderType': 4,
-            'procurementSupplierName': "枣庄市佳跃机械有限公司",
-            'productCategory': 11,
-            'productName': '研磨机-750w黑色刀片打磨机V1',
-            'purchaseNumber': 1000,
-            'purchasePrice': 10000,
-            'skuName': '研磨机-750w黑色刀片打磨机V1',
-            'skuOm': "YMJ-750WHSDPDMJ01V1",
+            'goodsId': 4,
+            'id': 4,
+            'orderType': 5,
+            'procurementSupplierName': "文登奥文电机有限公司",
+            'productCategory': 279,
+            'productName': '砂光机-12"圆盘砂光机V2',
+            'purchaseNumber': 100,
+            'purchasePrice': 572.73,
+            'skuName': '砂光机-12"圆盘砂光机V2',
+            'skuOm': "YPSGJ-12V29H9K1KKV2",
             'tax': 1
         }]
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 7f5eba02-ea46-4731-b2c9-dd8c560b5c34"
+        "Authorization": "Bearer 73fb0c64-c5de-4f0e-a060-032d28cdaecc"
     }
 
-    response = requests.request("POST", url, json=payload, headers=headers)
+    response = requests.post(url, json=payload, headers=headers)
 
     print(response.text)
 
 
-
 fff()
-
-
-
