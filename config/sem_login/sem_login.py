@@ -23,7 +23,7 @@ class Sem_Login_Test:
         self.urla = ParamsTest().selenium_url_sempreprod()
         self.url = f'{self.urla}login'
 
-        self.name = "liuxiaoqiang"
+        self.name = "liuxiaoqiang1"
 
         self.pwd = 'lxqiang95+'
 
