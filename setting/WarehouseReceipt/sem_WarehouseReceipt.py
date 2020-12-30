@@ -22,7 +22,7 @@ class Sem_WarehouseReceipt:
         库存管理
         入库单管理  -----   打开入库单页面
         """
-        self.urla = ParamsTest().selenium_url_test()
+        self.urla = ParamsTest().selenium_url_sempreprod()
         self.url = f'{self.urla}scp/Inventory/WarehouseReceipt'
 
     def warehouse(self):
