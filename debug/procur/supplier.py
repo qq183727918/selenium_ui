@@ -16,7 +16,7 @@ class SupplierMent:
     def supplierparams(self, purchaseSn):
         token = ReadToken().retoken()
         dicts = PurchaseOrderParams().params(purchaseSn)
-        urla = ParamsTest().selenium_url_pre()
+        urla = ParamsTest().request_url_sempreprod()
         procurementSupplierId = dicts["供应商ID"]
         print(procurementSupplierId)
 
@@ -35,6 +35,7 @@ class SupplierMent:
         # pprint.pprint(re)
 
         TheTokenValue = InviTation().token_code(re['code'])
+        limitAmount = re['data']["limitAmount"]
 
         if TheTokenValue == 200:
             dictsa = {
@@ -47,10 +48,11 @@ class SupplierMent:
                 # 是否票到付尾款
                 '是否票到付尾款': re['data']["isArrivalPay"],
                 # 限制金额
-                '限制金额': re['data']["limitAmount"],
+                '限制金额': limitAmount,
                 # 付款方式
                 '付款方式': re['data']['paymentType']
             }
+            print(dictsa)
 
             # pprint.pprint(dictsa)
 

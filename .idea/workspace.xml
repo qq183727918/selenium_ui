@@ -29,8 +29,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/warehouse_select.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting/WarehouseReceipt/sem_WarehouseReceipt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selenium_ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium_ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/123.png" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/1234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/gray-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/pre.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/pre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/flask_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/flask_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/payment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/procurchase.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/procurchase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/procur/supplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/supplier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/tesseract.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/tesseract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/influence/sem_login/sem_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/sem_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params/sem_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/params/sem_params.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql.8" />
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -140,7 +169,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -166,7 +195,70 @@
       <recent name="D:\Tools\git\selenium_ui\testcase\WarehouseReceipt" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.pytest for warehouse_select.WareHouseTest.test">
+  <component name="RunManager" selected="Python.flask_test">
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug/procur" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/procur/flask_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,38 +281,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for optlist.Shiplit" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="sem_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/optlist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/sem_login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;optlist.Shiplit&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/sem_login/sem_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for optlist.Shiplit.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="supplier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/optlist" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug/procur" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;optlist.Shiplit.test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/procur/supplier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for purchaseOrder.PurchaseOrder" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -240,12 +342,12 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for shiplit.Shiplit" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for purchaseOrder.PurchaseOrderTest.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/shiplit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/purchaseOrder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -253,51 +355,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;shiplit.Shiplit&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for warehouse_select.WareHouseTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/WarehouseReceipt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;warehouse_select.WareHouseTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for warehouse_select.WareHouseTest.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/WarehouseReceipt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;warehouse_select.WareHouseTest.test&quot;" />
+      <option name="_new_target" value="&quot;purchaseOrder.PurchaseOrderTest.test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.pytest for warehouse_select.WareHouseTest.test" />
-        <item itemvalue="Python 测试.pytest for warehouse_select.WareHouseTest" />
-        <item itemvalue="Python 测试.pytest for optlist.Shiplit.test" />
-        <item itemvalue="Python 测试.pytest for optlist.Shiplit" />
-        <item itemvalue="Python 测试.pytest for shiplit.Shiplit" />
+        <item itemvalue="Python.flask_test" />
+        <item itemvalue="Python.supplier" />
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.sem_login" />
+        <item itemvalue="Python 测试.pytest for purchaseOrder.PurchaseOrderTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +422,10 @@
       <workItem from="1609243912231" duration="2149000" />
       <workItem from="1609288041924" duration="3317000" />
       <workItem from="1609291669976" duration="6672000" />
-      <workItem from="1609318023115" duration="8456000" />
+      <workItem from="1609318023115" duration="17422000" />
+      <workItem from="1609720113333" duration="1448000" />
+      <workItem from="1609748487720" duration="17561000" />
+      <workItem from="1610005909232" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -615,7 +686,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609321764689</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="[master]WarehouseReceipt">
+      <created>1609330403539</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1609330403539</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -731,7 +809,8 @@
     <MESSAGE value="[master]Transfer" />
     <MESSAGE value="[master]shiplit" />
     <MESSAGE value="[master]optlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]optlist" />
+    <MESSAGE value="[master]WarehouseReceipt" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]WarehouseReceipt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="762" y="379" key="#Notifications" timestamp="1609317265382">
@@ -742,6 +821,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="197" key="#Plugins/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609205988496" />
+    <state x="617" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609752577719">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609752577719" />
     <state x="876" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609214318309">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -750,62 +833,66 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="651" y="235" key="#检查/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609222184076" />
-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1609321763458">
+    <state x="746" y="379" key="#通知" timestamp="1610005999408">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609321763458" />
+    <state x="746" y="379" key="#通知/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005999408" />
+    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1609330395379">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330395379" />
     <state width="370" height="442" key="Diff.GoToChangePopup" timestamp="1609231290009">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="370" height="442" key="Diff.GoToChangePopup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609231290009" />
-    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1609320328507">
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1609904163091">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609320328507" />
-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1609329969783">
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609904163091" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1609331356094">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609329969783" />
-    <state width="2005" height="373" key="GridCell.Tab.0.bottom" timestamp="1609330282805">
+    <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609331356094" />
+    <state width="2005" height="373" key="GridCell.Tab.0.bottom" timestamp="1610005953205">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="373" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330282805" />
-    <state width="2005" height="373" key="GridCell.Tab.0.center" timestamp="1609330282805">
+    <state width="2005" height="373" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+    <state width="2005" height="373" key="GridCell.Tab.0.center" timestamp="1610005953205">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="373" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330282805" />
-    <state width="2005" height="373" key="GridCell.Tab.0.left" timestamp="1609330282805">
+    <state width="2005" height="373" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+    <state width="2005" height="373" key="GridCell.Tab.0.left" timestamp="1610005953205">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="373" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330282805" />
-    <state width="2005" height="373" key="GridCell.Tab.0.right" timestamp="1609330282805">
+    <state width="2005" height="373" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+    <state width="2005" height="373" key="GridCell.Tab.0.right" timestamp="1610005953205">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="373" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330282805" />
+    <state width="2005" height="373" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
     <state width="146" height="477" key="HiddenNamespacesPopup" timestamp="1609230979779">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="146" height="477" key="HiddenNamespacesPopup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609230979779" />
-    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1609330337290">
+    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1610005941041">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330337290" />
+    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005941041" />
     <state x="854" y="258" key="RollbackChangesDialog" timestamp="1609213100891">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="854" y="258" key="RollbackChangesDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213100891" />
-    <state x="494" y="352" key="SettingsEditor" timestamp="1609239812378">
+    <state x="596" y="272" key="SettingsEditor" timestamp="1609391249024">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="494" y="352" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609239812378" />
-    <state x="848" y="253" key="VCS.ChangeListViewerDialog" timestamp="1609231315770">
+    <state x="596" y="272" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609391249024" />
+    <state x="848" y="253" key="VCS.ChangeListViewerDialog" timestamp="1609835950236">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="848" y="253" key="VCS.ChangeListViewerDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609231315770" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609321769013">
+    <state x="848" y="253" key="VCS.ChangeListViewerDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609835950236" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609330408722">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609321769013" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330408722" />
     <state x="485" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609227390840">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -865,8 +952,10 @@
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_warehouse_select_WareHouseTest_test.coverage" NAME="pytest for warehouse_select.WareHouseTest.test Coverage Results" MODIFIED="1609329928230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$Sem_All_Receipt.coverage" NAME="Sem_All_Receipt 覆盖结果" MODIFIED="1607501718579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage" NAME="sem_WarehouseReceipt (1) 覆盖结果" MODIFIED="1607484499131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest.coverage" NAME="pytest for purchaseOrder.PurchaseOrderTest Coverage Results" MODIFIED="1609853481214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$payment_Payment__pytest.coverage" NAME="payment.Payment 的 pytest 覆盖结果" MODIFIED="1607500012173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/payment" />
     <SUITE FILE_PATH="coverage/selenium_ui$123.coverage" NAME="123 Coverage Results" MODIFIED="1609316719991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest_test.coverage" NAME="pytest for purchaseOrder.PurchaseOrderTest.test Coverage Results" MODIFIED="1609853504363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$ReturnShelfOrder_ReturnShelfOrder__pytest.coverage" NAME="ReturnShelfOrder.ReturnShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500202669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/ReturnShelfOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_procurementTransit.coverage" NAME="sem_procurementTransit 覆盖结果" MODIFIED="1607500055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/procurementTransit" />
     <SUITE FILE_PATH="coverage/selenium_ui$warehousereceipt.coverage" NAME="warehousereceipt 覆盖结果" MODIFIED="1608775846906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
@@ -877,7 +966,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$flask_debug.coverage" NAME="flask_debug 覆盖结果" MODIFIED="1608818136067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$debug.coverage" NAME="debug Coverage Results" MODIFIED="1609227214016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_config.coverage" NAME="sem_config 覆盖结果" MODIFIED="1607432141059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/WarehouseReceipt" />
-    <SUITE FILE_PATH="coverage/selenium_ui$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1609244221555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug/procur" />
+    <SUITE FILE_PATH="coverage/selenium_ui$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1610005930062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug/procur" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_optlist_Shiplit.coverage" NAME="pytest for optlist.Shiplit Coverage Results" MODIFIED="1609321287493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/optlist" />
     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage" NAME="Warehouse_test.WareHouseTest 的 pytest 覆盖结果" MODIFIED="1607577327633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse.coverage" NAME="latestOverseasWarehouse 覆盖结果" MODIFIED="1607503187394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
@@ -893,7 +982,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTest_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTest.test 的 pytest 覆盖结果" MODIFIED="1608773435581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$procurementTransit_ProcurementTransit__pytest.coverage" NAME="procurementTransit.ProcurementTransit 的 pytest 覆盖结果" MODIFIED="1607500125831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/procurementTransit" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse__pytest.coverage" NAME="latestOverseasWarehouse.LatestOverseasWarehouse 的 pytest 覆盖结果" MODIFIED="1607499737794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/latestOverseasWarehouse" />
-    <SUITE FILE_PATH="coverage/selenium_ui$tesseract.coverage" NAME="tesseract Coverage Results" MODIFIED="1609295527838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/selenium_ui$tesseract.coverage" NAME="tesseract Coverage Results" MODIFIED="1609376161300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$SupplierManagement.coverage" NAME="SupplierManagement 覆盖结果" MODIFIED="1608794059928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/SupplierManagement" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1608776903961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/sem_login" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTets_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTets.test 的 pytest 覆盖结果" MODIFIED="1608172112765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />

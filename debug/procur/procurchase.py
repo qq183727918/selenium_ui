@@ -31,7 +31,7 @@ class PurchaseOrderParams:
             "groupId": "",
             "purchaseSn": purchaseSn
         }
-        self.urla = ParamsTest().selenium_url_pre()
+        self.urla = ParamsTest().request_url_sempreprod()
 
         url = f"{self.urla}scp-procurement-service/controller-purchaseOrderService/front/getPurchaseOrderList"
 

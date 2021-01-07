@@ -6,40 +6,33 @@
 # @Software : PyCharm
 
 import requests
-i = 0
-while True:
-    i += 1
-    print(f'第{i}循环')
-    if i % 2 == 0:
-        a = 5
-    else:
-        a = 4
-    url = "https://gatewaypre.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/addPurchaseOrder"
 
-    payload = [
-        {
-            'billSource': 1,
-            'dateSource': 2,
-            'goodsId': 404,
-            'id': 5,
-            'orderType': a,
-            'procurementSupplierName': "上海中宝不锈钢制品有限公司",
-            'productCategory': 5,
-            'productName': "童俊SPU 五彩斑斓的黑5L",
-            'purchaseNumber': 100,
-            'purchasePrice': 1000,
-            'skuName': "童俊SPU 五彩斑斓的黑5L",
-            'skuOm': "TJWCSPU5L220VNES5V3",
-            'tax': 1
-        }]
+url = "https://gatewaypreprod.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/addPurchaseOrder"
 
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": "Bearer 954c0491-91e3-40da-a097-b5f4a3ad1509"
-    }
+payload = [
+    {
+        "billSource": 1,
+        "dateSource": 2,
+        "goodsId": 2,
+        "id": 2,
+        "orderType": 2,
+        "procurementSupplierName": "文登奥文电机有限公司",
+        "productCategory": 279,
+        "productName": '砂光机-6"砂盘2 * 42砂带机V1',
+        "purchaseNumber": 1,
+        "purchasePrice": 536.36,
+        "replaceGoodsId": "",
+        "skuName": '砂光机-6"砂盘2 * 42砂带机V1',
+        "skuOm": "GPSDJ-6242V1JSNPKV1",
+        "tax": 1
+    }]
 
-    response = requests.request("POST", url, json=payload, headers=headers)
+headers = {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer aeeee8e5-e3d6-47ed-b028-676405be39dd"
+}
 
-    print(response.text)
-    if i == 50:
-        break
+response = requests.request("POST", url, json=payload, headers=headers)
+
+print(response.text)
+

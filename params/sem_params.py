@@ -57,19 +57,19 @@ class ParamsTest:
 
     def request_url_pre(self):
         """requests url pre"""
-        url = 'https://gatewaypre.vevor.net/scp-procurement-service'
+        url = 'https://gatewaypre.vevor.net/'
 
         return url
 
     def request_url_test(self):
         """requests url test"""
-        url = 'https://gatewaypreprod.vevor.net/scp-inventory-service'
+        url = 'https://gateway.vevor.net/'
 
         return url
 
     def request_url_sempreprod(self):
         """requests url sempreprod"""
-        url = 'https://gatewaypre.vevor.net/scp-procurement-service'
+        url = 'https://gatewaypreprod.vevor.net/'
 
         return url
 
