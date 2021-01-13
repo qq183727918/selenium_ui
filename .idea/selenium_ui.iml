@@ -12,7 +12,7 @@
       <excludeFolder url="file://$MODULE_DIR$/testcase/procurementTransit/.pytest_cache" />
       <excludeFolder url="file://$MODULE_DIR$/testcase/purchaseOrder/.pytest_cache" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (c1)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

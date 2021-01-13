@@ -9,8 +9,6 @@ import easyocr
 
 reader = easyocr.Reader(['ch_sim', 'en'])
 
-GPU = False
-
 result = reader.readtext('./123.png')
 
 print(result)

@@ -1,0 +1,997 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"BRANCH:vevor-scp-inventory\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4cf7f930-6f92-4407-bae6-9717482e7f65\" name=\"默认的\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/other.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/debug/12.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/dataSources.local.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/dataSources.local.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/dataSources.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/dataSources.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/selenium_ui.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/selenium_ui.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/123.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/123.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/123.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/123.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/1234.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/152.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/153.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/155.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/b1.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/debug.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/debug.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/gray-1.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/pre.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/pre.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/flask_test.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/flask_test.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/payment.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/payment.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/procurchase.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/procurchase.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/procur/supplier.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/procur/supplier.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/debug/tesseract.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/debug/tesseract.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/influence/sem_login/sem_login.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/influence/sem_login/sem_login.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/params/sem_params.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/params/sem_params.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FlaskConsoleOptions\" custom-start-script=\"import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\\nApp: %s [%s]\\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))\">\r\n    <envs>\r\n      <env key=\"FLASK_APP\" value=\"app\" />\r\n    </envs>\r\n    <option name=\"myCustomStartScript\" value=\"import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\\nApp: %s [%s]\\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))\" />\r\n    <option name=\"myEnvs\">\r\n      <map>\r\n        <entry key=\"FLASK_APP\" value=\"app\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"20201218Dev\" />\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"20201224Dev\" />\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"20201224Test\" />\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"20201228Dev\" />\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"20201230C1.0.0Dev\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/20201228Dev\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"刘晓强\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--follow-tags\" />\r\n        <option name=\"title\" value=\"Current Branch\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"20201230C1.0.0Dev\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/testcase/WarehouseReceipt/warehousereceipt.py\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"JupyterTrust\" id=\"ca9726cb-8e01-4510-bc0c-c011f7c1a4b3\" />\r\n  <component name=\"ProjectId\" id=\"1lNA5dIpkrTrG49oSiklGlsnvJt\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"新增\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollFromSource\" value=\"true\" />\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"sortByType\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"DatabaseDriversLRU\" value=\"mysql.8&#10;mysql\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"TODO_SCOPE\" value=\"所有位置\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../../work/python/work/c1/供应链管理系统\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"run.code.analysis.last.selected.profile\" value=\"aDefault\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PyConsoleOptionsProvider\">\r\n    <option name=\"myPythonConsoleState\">\r\n      <console-settings>\r\n        <option name=\"useSoftWraps\" value=\"true\" />\r\n      </console-settings>\r\n    </option>\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\sql\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\Yaml\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\setting\\latestOverseasWarehouse\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\setting\\MoveMoney\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\setting\\payment\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\debug\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\debug\\procur\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\testcase\\determine\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\params\" />\r\n      <recent name=\"D:\\Tools\\git\\selenium_ui\\testcase\\WarehouseReceipt\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.flask_test\">\r\n    <configuration name=\"123\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/debug\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/debug/123.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"true\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"true\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"flask_test\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/debug/procur\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/debug/procur/flask_test.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"true\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"sem_login\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/influence/sem_login\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/influence/sem_login/sem_login.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"true\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"supplier\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/debug/procur\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/debug/procur/supplier.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"true\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"pytest for purchaseOrder.PurchaseOrder\" type=\"tests\" factoryName=\"py.test\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"_new_keywords\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_parameters\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;purchaseOrder.PurchaseOrder&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"pytest for purchaseOrder.PurchaseOrderTest.test\" type=\"tests\" factoryName=\"py.test\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"selenium_ui\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"_new_keywords\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_parameters\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;purchaseOrder.PurchaseOrderTest.test&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.flask_test\" />\r\n        <item itemvalue=\"Python.supplier\" />\r\n        <item itemvalue=\"Python.123\" />\r\n        <item itemvalue=\"Python.sem_login\" />\r\n        <item itemvalue=\"Python 测试.pytest for purchaseOrder.PurchaseOrderTest.test\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration>C:\\Users\\Lenovo\\AppData\\Roaming\\Subversion</configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"4cf7f930-6f92-4407-bae6-9717482e7f65\" name=\"默认的\" comment=\"\" />\r\n      <created>1607426992511</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1607426992511</updated>\r\n      <workItem from=\"1607426993623\" duration=\"1655000\" />\r\n      <workItem from=\"1607428729938\" duration=\"4466000\" />\r\n      <workItem from=\"1607433371089\" duration=\"341000\" />\r\n      <workItem from=\"1607475017221\" duration=\"5027000\" />\r\n      <workItem from=\"1607480614367\" duration=\"2483000\" />\r\n      <workItem from=\"1607483494608\" duration=\"7901000\" />\r\n      <workItem from=\"1607496074157\" duration=\"8378000\" />\r\n      <workItem from=\"1607561579781\" duration=\"2412000\" />\r\n      <workItem from=\"1607566848691\" duration=\"13985000\" />\r\n      <workItem from=\"1607649690388\" duration=\"6240000\" />\r\n      <workItem from=\"1607905647017\" duration=\"14790000\" />\r\n      <workItem from=\"1608108612019\" duration=\"32065000\" />\r\n      <workItem from=\"1608510647279\" duration=\"3073000\" />\r\n      <workItem from=\"1608515904530\" duration=\"11263000\" />\r\n      <workItem from=\"1608619002166\" duration=\"2866000\" />\r\n      <workItem from=\"1608639095650\" duration=\"7249000\" />\r\n      <workItem from=\"1608731314369\" duration=\"511000\" />\r\n      <workItem from=\"1608769896671\" duration=\"27467000\" />\r\n      <workItem from=\"1608867509526\" duration=\"3409000\" />\r\n      <workItem from=\"1609117065202\" duration=\"1435000\" />\r\n      <workItem from=\"1609119439484\" duration=\"330000\" />\r\n      <workItem from=\"1609120359193\" duration=\"281000\" />\r\n      <workItem from=\"1609120690258\" duration=\"37000\" />\r\n      <workItem from=\"1609120807064\" duration=\"2000\" />\r\n      <workItem from=\"1609120829999\" duration=\"10776000\" />\r\n      <workItem from=\"1609204551613\" duration=\"554000\" />\r\n      <workItem from=\"1609205400124\" duration=\"38000\" />\r\n      <workItem from=\"1609205458571\" duration=\"11000\" />\r\n      <workItem from=\"1609205723824\" duration=\"54000\" />\r\n      <workItem from=\"1609205806256\" duration=\"100000\" />\r\n      <workItem from=\"1609205944448\" duration=\"274000\" />\r\n      <workItem from=\"1609206275517\" duration=\"40000\" />\r\n      <workItem from=\"1609206387248\" duration=\"36000\" />\r\n      <workItem from=\"1609207060032\" duration=\"253000\" />\r\n      <workItem from=\"1609207328419\" duration=\"93000\" />\r\n      <workItem from=\"1609207458207\" duration=\"343000\" />\r\n      <workItem from=\"1609208011409\" duration=\"8722000\" />\r\n      <workItem from=\"1609222299109\" duration=\"117000\" />\r\n      <workItem from=\"1609222436566\" duration=\"12393000\" />\r\n      <workItem from=\"1609243912231\" duration=\"2149000\" />\r\n      <workItem from=\"1609288041924\" duration=\"3317000\" />\r\n      <workItem from=\"1609291669976\" duration=\"6672000\" />\r\n      <workItem from=\"1609318023115\" duration=\"17422000\" />\r\n      <workItem from=\"1609720113333\" duration=\"1448000\" />\r\n      <workItem from=\"1609748487720\" duration=\"17561000\" />\r\n      <workItem from=\"1610005909232\" duration=\"284000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"selenium\">\r\n      <created>1607433631488</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607433631488</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"selenium\">\r\n      <created>1607475303148</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607475303148</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"WarehouseReceipt\">\r\n      <created>1607479410286</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607479410286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"WarehouseReceipt\">\r\n      <created>1607484794395</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607484794395</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"All Receipt\">\r\n      <created>1607485036281</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607485036281</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"All Receipt\">\r\n      <created>1607491983076</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607491983076</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Runner\">\r\n      <created>1607494681287</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607494681287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Runner_report\">\r\n      <created>1607503253955</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607503253955</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Runner_report\">\r\n      <created>1607566804224</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607566804224</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"warehousereceipt\">\r\n      <created>1607578094734</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607578094734</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"purchaseOrder\">\r\n      <created>1607581704509</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607581704509</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"purchaseOrder\">\r\n      <created>1607585599587</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607585599587</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"warehouse_receipt\">\r\n      <created>1607689766525</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607689766526</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"warehouse_receipt\">\r\n      <created>1608016953734</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608016953735</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"warehouse_receipt\">\r\n      <created>1608035718764</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608035718764</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"warehouse_receipt\">\r\n      <created>1608252369264</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608252369264</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"return dict\">\r\n      <created>1608255974297</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608255974297</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"return dict\">\r\n      <created>1608283166500</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608283166500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"updata influence and selenium url\">\r\n      <created>1608549952017</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608549952017</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"[master]updata selenium_ui\">\r\n      <created>1608723086622</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608723086622</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"[master]update selenium_ui\">\r\n      <created>1608775943128</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608775943128</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"[master]update procurorder\">\r\n      <created>1608792354229</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608792354229</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"[master]update procurorder\">\r\n      <created>1608797840964</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608797840964</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"[master]update procurorder\">\r\n      <created>1608892980769</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608892980769</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"[master]update procurorder\">\r\n      <created>1609202654892</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609202654892</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"[master]scp inster[select]\">\r\n      <created>1609213344412</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609213344412</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"[master]scp inster[select]\">\r\n      <created>1609213889691</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609213889691</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"[master]scp inster[select]\">\r\n      <created>1609218394075</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609218394075</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"[master]scp-inventory\">\r\n      <created>1609221700527</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609221700527</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"[master]scp-inventory\">\r\n      <created>1609231213825</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609231213825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"[master]scp-inventory\">\r\n      <created>1609244259857</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609244259857</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"[master]tesseract\">\r\n      <created>1609292233139</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609292233139</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"[master]tesseract\">\r\n      <created>1609316972413</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609316972413</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"[master]Transfer\">\r\n      <created>1609318195666</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609318195666</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"[master]Transfer\">\r\n      <created>1609318501145</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609318501145</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"[master]shiplit\">\r\n      <created>1609319987465</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609319987465</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"[master]optlist\">\r\n      <created>1609321764689</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609321764689</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00038\" summary=\"[master]WarehouseReceipt\">\r\n      <created>1609330403539</created>\r\n      <option name=\"number\" value=\"00038\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00038\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1609330403539</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"39\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"1\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"structure\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dir:D:/Tools/git/selenium_ui/report\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"vevor-scp-inventory\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"20201224Dev\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"origin/master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"selenium\" />\r\n    <MESSAGE value=\"WarehouseReceipt\" />\r\n    <MESSAGE value=\"All Receipt\" />\r\n    <MESSAGE value=\"Runner\" />\r\n    <MESSAGE value=\"Runner_report\" />\r\n    <MESSAGE value=\"warehousereceipt\" />\r\n    <MESSAGE value=\"purchaseOrder\" />\r\n    <MESSAGE value=\"warehouse_receipt\" />\r\n    <MESSAGE value=\"return dict\" />\r\n    <MESSAGE value=\"updata influence and selenium url\" />\r\n    <MESSAGE value=\"[master]updata selenium_ui\" />\r\n    <MESSAGE value=\"[master]update selenium_ui\" />\r\n    <MESSAGE value=\"[master]update procurorder\" />\r\n    <MESSAGE value=\"[master]scp inster[select]\" />\r\n    <MESSAGE value=\"[master]scp-inventory\" />\r\n    <MESSAGE value=\"[master]tesseract\" />\r\n    <MESSAGE value=\"[master]Transfer\" />\r\n    <MESSAGE value=\"[master]shiplit\" />\r\n    <MESSAGE value=\"[master]optlist\" />\r\n    <MESSAGE value=\"[master]WarehouseReceipt\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"[master]WarehouseReceipt\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"762\" y=\"379\" key=\"#Notifications\" timestamp=\"1609317265382\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"762\" y=\"379\" key=\"#Notifications/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609317265382\" />\r\n    <state x=\"617\" y=\"197\" key=\"#Plugins\" timestamp=\"1609205988496\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"617\" y=\"197\" key=\"#Plugins/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609205988496\" />\r\n    <state x=\"617\" y=\"215\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1609752577719\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"617\" y=\"215\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609752577719\" />\r\n    <state x=\"876\" y=\"357\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1609214318309\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"876\" y=\"357\" key=\"#com.intellij.fileTypes.FileTypeChooser/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609214318309\" />\r\n    <state x=\"651\" y=\"235\" key=\"#检查\" timestamp=\"1609222184076\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"651\" y=\"235\" key=\"#检查/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609222184076\" />\r\n    <state x=\"746\" y=\"379\" key=\"#通知\" timestamp=\"1610005999408\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"746\" y=\"379\" key=\"#通知/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005999408\" />\r\n    <state x=\"390\" y=\"136\" width=\"1382\" height=\"839\" key=\"CommitChangelistDialog2\" timestamp=\"1609330395379\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"390\" y=\"136\" width=\"1382\" height=\"839\" key=\"CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609330395379\" />\r\n    <state width=\"370\" height=\"442\" key=\"Diff.GoToChangePopup\" timestamp=\"1609231290009\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"370\" height=\"442\" key=\"Diff.GoToChangePopup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609231290009\" />\r\n    <state x=\"93\" y=\"93\" width=\"1862\" height=\"926\" key=\"DiffContextDialog\" timestamp=\"1609904163091\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"93\" y=\"93\" width=\"1862\" height=\"926\" key=\"DiffContextDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609904163091\" />\r\n    <state x=\"805\" y=\"311\" key=\"FileChooserDialogImpl\" timestamp=\"1609331356094\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"805\" y=\"311\" key=\"FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609331356094\" />\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1610005953205\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005953205\" />\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.center\" timestamp=\"1610005953205\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005953205\" />\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.left\" timestamp=\"1610005953205\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005953205\" />\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.right\" timestamp=\"1610005953205\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"2005\" height=\"373\" key=\"GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005953205\" />\r\n    <state width=\"146\" height=\"477\" key=\"HiddenNamespacesPopup\" timestamp=\"1609230979779\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state width=\"146\" height=\"477\" key=\"HiddenNamespacesPopup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609230979779\" />\r\n    <state x=\"605\" y=\"291\" key=\"IDE.errors.dialog\" timestamp=\"1610005941041\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"605\" y=\"291\" key=\"IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1610005941041\" />\r\n    <state x=\"854\" y=\"258\" key=\"RollbackChangesDialog\" timestamp=\"1609213100891\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"854\" y=\"258\" key=\"RollbackChangesDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609213100891\" />\r\n    <state x=\"596\" y=\"272\" key=\"SettingsEditor\" timestamp=\"1609391249024\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"596\" y=\"272\" key=\"SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609391249024\" />\r\n    <state x=\"848\" y=\"253\" key=\"VCS.ChangeListViewerDialog\" timestamp=\"1609835950236\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"848\" y=\"253\" key=\"VCS.ChangeListViewerDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609835950236\" />\r\n    <state x=\"617\" y=\"289\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1609330408722\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"617\" y=\"289\" key=\"Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609330408722\" />\r\n    <state x=\"485\" y=\"124\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser\" timestamp=\"1609227390840\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"485\" y=\"124\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609227390840\" />\r\n    <state x=\"838\" y=\"469\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1609318491344\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"838\" y=\"469\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609318491344\" />\r\n    <state x=\"578\" y=\"286\" key=\"com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2\" timestamp=\"1609230795187\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"578\" y=\"286\" key=\"com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609230795187\" />\r\n    <state x=\"749\" y=\"92\" width=\"549\" height=\"927\" key=\"find.popup\" timestamp=\"1609214357982\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"749\" y=\"92\" width=\"549\" height=\"927\" key=\"find.popup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609214357982\" />\r\n    <state x=\"848\" y=\"273\" key=\"git4idea.branch.GitBranchIsNotFullyMergedDialog\" timestamp=\"1609320487084\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"848\" y=\"273\" key=\"git4idea.branch.GitBranchIsNotFullyMergedDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609320487084\" />\r\n    <state x=\"687\" y=\"243\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1609213253832\">\r\n      <screen x=\"0\" y=\"0\" width=\"2048\" height=\"1112\" />\r\n    </state>\r\n    <state x=\"687\" y=\"243\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112\" timestamp=\"1609213253832\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <default-breakpoints>\r\n        <breakpoint type=\"python-exception\">\r\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\r\n            <option name=\"notifyOnTerminate\" value=\"true\" />\r\n          </properties>\r\n        </breakpoint>\r\n      </default-breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$flask_test__1_.coverage\" NAME=\"flask_test (1) 覆盖结果\" MODIFIED=\"1609142558510\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug/procur\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$WarehouseReceipt.coverage\" NAME=\"WarehouseReceipt 覆盖结果\" MODIFIED=\"1607502353120\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/runner/SEM_All_Receipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$judgingThatTheTokenIsInvalid.coverage\" NAME=\"judgingThatTheTokenIsInvalid 覆盖结果\" MODIFIED=\"1608787262379\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrderTets__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrderTets 的 pytest 覆盖结果\" MODIFIED=\"1608171358561\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_warehouse_select_WareHouseTest.coverage\" NAME=\"pytest for warehouse_select.WareHouseTest Coverage Results\" MODIFIED=\"1609328294545\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder.coverage\" NAME=\"purchaseOrder 覆盖结果\" MODIFIED=\"1608723646823\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/runner/SEM_All_Receipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseordertest.coverage\" NAME=\"purchaseordertest 覆盖结果\" MODIFIED=\"1608794974876\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/params\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_login.coverage\" NAME=\"sem_login 覆盖结果\" MODIFIED=\"1608770866617\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/config/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_shiplit_Shiplit.coverage\" NAME=\"pytest for shiplit.Shiplit Coverage Results\" MODIFIED=\"1609319875676\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/shiplit\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$Gression.coverage\" NAME=\"Gression Coverage Results\" MODIFIED=\"1609220839189\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/Gression\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrderTest__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrderTest 的 pytest 覆盖结果\" MODIFIED=\"1608773583784\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$Warehouse_test_py__pytest.coverage\" NAME=\"Warehouse_test.py 中的 pytest 覆盖结果\" MODIFIED=\"1607499881588\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$MoveMoney_MoveMoney__pytest.coverage\" NAME=\"MoveMoney.MoveMoney 的 pytest 覆盖结果\" MODIFIED=\"1607499985870\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/MoveMoney\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseinfluence.coverage\" NAME=\"purchaseinfluence 覆盖结果\" MODIFIED=\"1608779943527\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_transfer_Transfer.coverage\" NAME=\"pytest for transfer.Transfer Coverage Results\" MODIFIED=\"1609228515504\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/transfer\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$warehousereceipt__1_.coverage\" NAME=\"warehousereceipt (1) 覆盖结果\" MODIFIED=\"1608780419189\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_transfer_test.coverage\" NAME=\"pytest for transfer.test Coverage Results\" MODIFIED=\"1609222500401\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/transfer\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_optlist_Shiplit_test.coverage\" NAME=\"pytest for optlist.Shiplit.test Coverage Results\" MODIFIED=\"1609321705917\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/optlist\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_WarehouseReceipt.coverage\" NAME=\"sem_WarehouseReceipt 覆盖结果\" MODIFIED=\"1607572493305\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_warehouse_select_WareHouseTest_test.coverage\" NAME=\"pytest for warehouse_select.WareHouseTest.test Coverage Results\" MODIFIED=\"1609329928230\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$Sem_All_Receipt.coverage\" NAME=\"Sem_All_Receipt 覆盖结果\" MODIFIED=\"1607501718579\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/runner/SEM_All_Receipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage\" NAME=\"sem_WarehouseReceipt (1) 覆盖结果\" MODIFIED=\"1607484499131\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest.coverage\" NAME=\"pytest for purchaseOrder.PurchaseOrderTest Coverage Results\" MODIFIED=\"1609853481214\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$payment_Payment__pytest.coverage\" NAME=\"payment.Payment 的 pytest 覆盖结果\" MODIFIED=\"1607500012173\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/payment\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$123.coverage\" NAME=\"123 Coverage Results\" MODIFIED=\"1609316719991\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest_test.coverage\" NAME=\"pytest for purchaseOrder.PurchaseOrderTest.test Coverage Results\" MODIFIED=\"1609853504363\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$ReturnShelfOrder_ReturnShelfOrder__pytest.coverage\" NAME=\"ReturnShelfOrder.ReturnShelfOrder 的 pytest 覆盖结果\" MODIFIED=\"1607500202669\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/ReturnShelfOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_procurementTransit.coverage\" NAME=\"sem_procurementTransit 覆盖结果\" MODIFIED=\"1607500055121\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/procurementTransit\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$warehousereceipt.coverage\" NAME=\"warehousereceipt 覆盖结果\" MODIFIED=\"1608775846906\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pre.coverage\" NAME=\"pre 覆盖结果\" MODIFIED=\"1608705590915\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseorder__1_.coverage\" NAME=\"purchaseorder (1) 覆盖结果\" MODIFIED=\"1608705593509\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrder__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrder 的 pytest 覆盖结果\" MODIFIED=\"1607581373358\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_transfer_Transfer_test.coverage\" NAME=\"pytest for transfer.Transfer.test Coverage Results\" MODIFIED=\"1609318133349\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/transfer\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$flask_debug.coverage\" NAME=\"flask_debug 覆盖结果\" MODIFIED=\"1608818136067\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$debug.coverage\" NAME=\"debug Coverage Results\" MODIFIED=\"1609227214016\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_config.coverage\" NAME=\"sem_config 覆盖结果\" MODIFIED=\"1607432141059\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/config/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$flask_test.coverage\" NAME=\"flask_test Coverage Results\" MODIFIED=\"1610005930062\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug/procur\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$pytest_for_optlist_Shiplit.coverage\" NAME=\"pytest for optlist.Shiplit Coverage Results\" MODIFIED=\"1609321287493\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/optlist\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$Warehouse_test_WareHouseTest__pytest.coverage\" NAME=\"Warehouse_test.WareHouseTest 的 pytest 覆盖结果\" MODIFIED=\"1607577327633\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$latestOverseasWarehouse.coverage\" NAME=\"latestOverseasWarehouse 覆盖结果\" MODIFIED=\"1607503187394\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/runner/SEM_All_Receipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseorder.coverage\" NAME=\"purchaseorder 覆盖结果\" MODIFIED=\"1608792317744\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrder_test__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrder.test 的 pytest 覆盖结果\" MODIFIED=\"1607581180932\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$read_token.coverage\" NAME=\"read_token 覆盖结果\" MODIFIED=\"1608777252420\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/file_pre\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$payment.coverage\" NAME=\"payment 覆盖结果\" MODIFIED=\"1608792662185\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/payment\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$UpShelfOrder_UpShelfOrder__pytest.coverage\" NAME=\"UpShelfOrder.UpShelfOrder 的 pytest 覆盖结果\" MODIFIED=\"1607500286321\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/UpShelfOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_latestOverseasWarehouse.coverage\" NAME=\"sem_latestOverseasWarehouse 覆盖结果\" MODIFIED=\"1607499843676\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/latestOverseasWarehouse\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$locationBatchStock.coverage\" NAME=\"locationBatchStock Coverage Results\" MODIFIED=\"1609221041199\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/setting/locationBatchStock\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse_test__pytest.coverage\" NAME=\"latestOverseasWarehouse.LatestOverseasWarehouse.test 的 pytest 覆盖结果\" MODIFIED=\"1607499943719\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/latestOverseasWarehouse\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$run.coverage\" NAME=\"run 覆盖结果\" MODIFIED=\"1608723569459\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrderTest_test__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrderTest.test 的 pytest 覆盖结果\" MODIFIED=\"1608773435581\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$procurementTransit_ProcurementTransit__pytest.coverage\" NAME=\"procurementTransit.ProcurementTransit 的 pytest 覆盖结果\" MODIFIED=\"1607500125831\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/procurementTransit\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse__pytest.coverage\" NAME=\"latestOverseasWarehouse.LatestOverseasWarehouse 的 pytest 覆盖结果\" MODIFIED=\"1607499737794\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/latestOverseasWarehouse\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$tesseract.coverage\" NAME=\"tesseract Coverage Results\" MODIFIED=\"1609376161300\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/debug\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$SupplierManagement.coverage\" NAME=\"SupplierManagement 覆盖结果\" MODIFIED=\"1608794059928\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/SupplierManagement\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$sem_login__1_.coverage\" NAME=\"sem_login (1) 覆盖结果\" MODIFIED=\"1608776903961\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/influence/sem_login\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_PurchaseOrderTets_test__pytest.coverage\" NAME=\"purchaseOrder.PurchaseOrderTets.test 的 pytest 覆盖结果\" MODIFIED=\"1608172112765\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$Warehouse_test_WareHouseTest_test__pytest.coverage\" NAME=\"Warehouse_test.WareHouseTest.test 的 pytest 覆盖结果\" MODIFIED=\"1607577021721\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/WarehouseReceipt\" />\r\n    <SUITE FILE_PATH=\"coverage/selenium_ui$purchaseOrder_py__pytest.coverage\" NAME=\"purchaseOrder.py 中的 pytest 覆盖结果\" MODIFIED=\"1608770901264\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/testcase/purchaseOrder\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 236223c3087488bd005f50a2a16e2f84951813e0)
++++ .idea/workspace.xml	(date 1610238755985)
+@@ -29,37 +29,20 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/debug/12.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/selenium_ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium_ui.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/debug/QQ.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/debug/pdftesseract.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/influence/purchase/debug.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/influence/purchase/number.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/influence/purchase/purchase.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/influence/purchase/se.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/pdf_doxc/pdf_doc.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/pdf_doxc/requirements.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/pdf_doxc/test.pdf" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/123.png" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/1234.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/152.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/153.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/155.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/b1.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/debug.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/gray-1.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/pre.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/pre.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/payment.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/procurchase.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/__pycache__/supplier.cpython-38.pyc" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/debug/12.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/debug/123.png" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/debug/procur/flask_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/flask_test.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/payment.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/procurchase.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/procurchase.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/debug/procur/supplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/procur/supplier.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/debug/tesseract.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/tesseract.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/file_pre/__pycache__/read_token.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/__pycache__/__init__.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/__pycache__/sem_login.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/influence/sem_login/sem_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/influence/sem_login/sem_login.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/params/__pycache__/sem_params.cpython-38.pyc" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/params/sem_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/params/sem_params.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -143,7 +126,10 @@
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/testcase/WarehouseReceipt/warehousereceipt.py" root0="SKIP_INSPECTION" />
+   </component>
+-  <component name="JupyterTrust" id="ca9726cb-8e01-4510-bc0c-c011f7c1a4b3" />
++  <component name="JupyterTrust" id="364ad378-81c6-46da-bf65-e6f6a1d83996" />
++  <component name="ProblemsViewState">
++    <option name="showPreview" value="true" />
++  </component>
+   <component name="ProjectId" id="1lNA5dIpkrTrG49oSiklGlsnvJt" />
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="2" id="新增" />
+@@ -164,7 +150,7 @@
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="TODO_SCOPE" value="所有位置" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/python/work/c1/供应链管理系统" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyppeteer_test" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+     <property name="nodejs_package_manager_path" value="npm" />
+@@ -181,22 +167,22 @@
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="D:\Tools\vevor\selenium_ui\influence\purchase" />
+       <recent name="D:\Tools\git\selenium_ui\sql" />
+       <recent name="D:\Tools\git\selenium_ui\Yaml" />
+       <recent name="D:\Tools\git\selenium_ui\setting\latestOverseasWarehouse" />
+       <recent name="D:\Tools\git\selenium_ui\setting\MoveMoney" />
+-      <recent name="D:\Tools\git\selenium_ui\setting\payment" />
+     </key>
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="D:\Tools\vevor\selenium_ui\pdf_doxc" />
++      <recent name="D:\Tools\vevor\selenium_ui\debug" />
+       <recent name="D:\Tools\git\selenium_ui\debug" />
+       <recent name="D:\Tools\git\selenium_ui\debug\procur" />
+       <recent name="D:\Tools\git\selenium_ui\testcase\determine" />
+-      <recent name="D:\Tools\git\selenium_ui\params" />
+-      <recent name="D:\Tools\git\selenium_ui\testcase\WarehouseReceipt" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Python.flask_test">
+-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.purchase">
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -204,12 +190,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
+-      <option name="IS_MODULE_SDK" value="true" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/123.py" />
++      <option name="SCRIPT_NAME" value="" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -218,7 +204,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
++    <configuration name="flask_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -226,12 +212,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug/procur" />
++      <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/procur/flask_test.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -240,26 +226,29 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="flask_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug/procur" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/procur/flask_test.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+       <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="true" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+       <option name="MODULE_MODE" value="false" />
+       <option name="REDIRECT_INPUT" value="false" />
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++    <configuration name="pdf_doc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -267,21 +256,21 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdf_doxc" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf_doxc/pdf_doc.py" />
+       <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+       <option name="MODULE_MODE" value="false" />
+       <option name="REDIRECT_INPUT" value="false" />
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="sem_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="purchase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -289,12 +278,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/sem_login" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/purchase" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/sem_login/sem_login.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/purchase/purchase.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -303,7 +292,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="supplier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="se" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -311,12 +300,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug/procur" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influence/purchase" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/procur/supplier.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influence/purchase/se.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -325,24 +314,29 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="pytest for purchaseOrder.PurchaseOrder" type="tests" factoryName="py.test" nameIsGenerated="true">
++    <configuration name="tesseract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/purchaseOrder" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="_new_keywords" value="&quot;&quot;" />
+-      <option name="_new_parameters" value="&quot;&quot;" />
+-      <option name="_new_additionalArguments" value="&quot;&quot;" />
+-      <option name="_new_target" value="&quot;purchaseOrder.PurchaseOrder&quot;" />
+-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/tesseract.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="pytest for purchaseOrder.PurchaseOrderTest.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
++    <configuration name="pytest for purchaseOrder.PurchaseOrder" type="tests" factoryName="py.test" nameIsGenerated="true">
+       <module name="selenium_ui" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -355,17 +349,17 @@
+       <option name="_new_keywords" value="&quot;&quot;" />
+       <option name="_new_parameters" value="&quot;&quot;" />
+       <option name="_new_additionalArguments" value="&quot;&quot;" />
+-      <option name="_new_target" value="&quot;purchaseOrder.PurchaseOrderTest.test&quot;" />
++      <option name="_new_target" value="&quot;purchaseOrder.PurchaseOrder&quot;" />
+       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+       <method v="2" />
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Python.purchase" />
++        <item itemvalue="Python.pdf_doc" />
++        <item itemvalue="Python.tesseract" />
++        <item itemvalue="Python.se" />
+         <item itemvalue="Python.flask_test" />
+-        <item itemvalue="Python.supplier" />
+-        <item itemvalue="Python.123" />
+-        <item itemvalue="Python.sem_login" />
+-        <item itemvalue="Python 测试.pytest for purchaseOrder.PurchaseOrderTest.test" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -425,7 +419,9 @@
+       <workItem from="1609318023115" duration="17422000" />
+       <workItem from="1609720113333" duration="1448000" />
+       <workItem from="1609748487720" duration="17561000" />
+-      <workItem from="1610005909232" duration="284000" />
++      <workItem from="1610005909232" duration="3560000" />
++      <workItem from="1610009791640" duration="976000" />
++      <workItem from="1610011409795" duration="15107000" />
+     </task>
+     <task id="LOCAL-00001" summary="selenium">
+       <created>1607433631488</created>
+@@ -693,7 +689,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1609330403539</updated>
+     </task>
+-    <option name="localTasksCounter" value="39" />
++    <task id="LOCAL-00039" summary="[master]purchaseorder">
++      <created>1610006490691</created>
++      <option name="number" value="00039" />
++      <option name="presentableId" value="LOCAL-00039" />
++      <option name="project" value="LOCAL" />
++      <updated>1610006490691</updated>
++    </task>
++    <option name="localTasksCounter" value="40" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -810,7 +813,8 @@
+     <MESSAGE value="[master]shiplit" />
+     <MESSAGE value="[master]optlist" />
+     <MESSAGE value="[master]WarehouseReceipt" />
+-    <option name="LAST_COMMIT_MESSAGE" value="[master]WarehouseReceipt" />
++    <MESSAGE value="[master]purchaseorder" />
++    <option name="LAST_COMMIT_MESSAGE" value="[master]purchaseorder" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="762" y="379" key="#Notifications" timestamp="1609317265382">
+@@ -829,18 +833,18 @@
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="876" y="357" key="#com.intellij.fileTypes.FileTypeChooser/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609214318309" />
+-    <state x="651" y="235" key="#检查" timestamp="1609222184076">
++    <state x="651" y="235" key="#检查" timestamp="1610006588537">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="651" y="235" key="#检查/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609222184076" />
++    <state x="651" y="235" key="#检查/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610006588537" />
+     <state x="746" y="379" key="#通知" timestamp="1610005999408">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="746" y="379" key="#通知/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005999408" />
+-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1609330395379">
++    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2" timestamp="1610006489156">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330395379" />
++    <state x="390" y="136" width="1382" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610006489156" />
+     <state width="370" height="442" key="Diff.GoToChangePopup" timestamp="1609231290009">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+@@ -849,50 +853,50 @@
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609904163091" />
+-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1609331356094">
++    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1610076219732">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609331356094" />
+-    <state width="2005" height="373" key="GridCell.Tab.0.bottom" timestamp="1610005953205">
++    <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610076219732" />
++    <state width="2005" height="373" key="GridCell.Tab.0.bottom" timestamp="1610095069424">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state width="2005" height="373" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+-    <state width="2005" height="373" key="GridCell.Tab.0.center" timestamp="1610005953205">
++    <state width="2005" height="373" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610095069424" />
++    <state width="2005" height="373" key="GridCell.Tab.0.center" timestamp="1610095069424">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state width="2005" height="373" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+-    <state width="2005" height="373" key="GridCell.Tab.0.left" timestamp="1610005953205">
++    <state width="2005" height="373" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610095069424" />
++    <state width="2005" height="373" key="GridCell.Tab.0.left" timestamp="1610095069424">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state width="2005" height="373" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
+-    <state width="2005" height="373" key="GridCell.Tab.0.right" timestamp="1610005953205">
++    <state width="2005" height="373" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610095069424" />
++    <state width="2005" height="373" key="GridCell.Tab.0.right" timestamp="1610095069424">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state width="2005" height="373" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005953205" />
++    <state width="2005" height="373" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610095069424" />
+     <state width="146" height="477" key="HiddenNamespacesPopup" timestamp="1609230979779">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state width="146" height="477" key="HiddenNamespacesPopup/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609230979779" />
+-    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1610005941041">
++    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1610010320647">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610005941041" />
++    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610010320647" />
+     <state x="854" y="258" key="RollbackChangesDialog" timestamp="1609213100891">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="854" y="258" key="RollbackChangesDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609213100891" />
+-    <state x="596" y="272" key="SettingsEditor" timestamp="1609391249024">
++    <state x="596" y="272" key="SettingsEditor" timestamp="1610022761391">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="596" y="272" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609391249024" />
++    <state x="596" y="272" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610022761391" />
+     <state x="848" y="253" key="VCS.ChangeListViewerDialog" timestamp="1609835950236">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="848" y="253" key="VCS.ChangeListViewerDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609835950236" />
+-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1609330408722">
++    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610006495372">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609330408722" />
++    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610006495372" />
+     <state x="485" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609227390840">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+@@ -901,10 +905,10 @@
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+     <state x="838" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609318491344" />
+-    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609230795187">
++    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610095059321">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+-    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1609230795187" />
++    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610095059321" />
+     <state x="749" y="92" width="549" height="927" key="find.popup" timestamp="1609214357982">
+       <screen x="0" y="0" width="2048" height="1112" />
+     </state>
+@@ -920,6 +924,13 @@
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
++          <url>file://$PROJECT_DIR$/influence/purchase/purchase.py</url>
++          <line>31</line>
++          <option name="timeStamp" value="2" />
++        </line-breakpoint>
++      </breakpoints>
+       <default-breakpoints>
+         <breakpoint type="python-exception">
+           <properties notifyOnTerminate="true" exception="BaseException">
+@@ -984,6 +995,7 @@
+     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse__pytest.coverage" NAME="latestOverseasWarehouse.LatestOverseasWarehouse 的 pytest 覆盖结果" MODIFIED="1607499737794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/latestOverseasWarehouse" />
+     <SUITE FILE_PATH="coverage/selenium_ui$tesseract.coverage" NAME="tesseract Coverage Results" MODIFIED="1609376161300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+     <SUITE FILE_PATH="coverage/selenium_ui$SupplierManagement.coverage" NAME="SupplierManagement 覆盖结果" MODIFIED="1608794059928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/SupplierManagement" />
++    <SUITE FILE_PATH="coverage/selenium_ui$purchase.coverage" NAME="purchase Coverage Results" MODIFIED="1610095045978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/purchase" />
+     <SUITE FILE_PATH="coverage/selenium_ui$sem_login__1_.coverage" NAME="sem_login (1) 覆盖结果" MODIFIED="1608776903961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/influence/sem_login" />
+     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTets_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTets.test 的 pytest 覆盖结果" MODIFIED="1608172112765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
+     <SUITE FILE_PATH="coverage/selenium_ui$Warehouse_test_WareHouseTest_test__pytest.coverage" NAME="Warehouse_test.WareHouseTest.test 的 pytest 覆盖结果" MODIFIED="1607577021721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
+Index: influence/judgingThatTheTokenIsInvalid/judgingThatTheTokenIsInvalid.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># _*_ coding: UTF-8 _*_\r\n# @Time     : 2020/12/24 10:29\r\n# @Author   : LiuXiaoQiang\r\n# @Site     : https://github.com/qq183727918\r\n# @File     : judgingThatTheTokenIsInvalid.py\r\n# @Software : PyCharm\r\nfrom influence.sem_login.sem_login import SemLoginTest\r\n\r\n\r\nclass InviTation:\r\n\r\n    def token_code(self, re):\r\n        if re == 200:\r\n            print('token可以正常使用，请继续')\r\n            return 200\r\n        elif re == 401:\r\n            print('token失效，正在重新获取token')\r\n            sem = SemLoginTest()\r\n            sem.semtoken()\r\n            print('获取token成功，正在重试，请稍等......')\r\n            return 401\r\n        elif re == 503 or 500:\r\n            print('请找相关开发人员解决')\r\n            develop = '请找相关开发人员解决'\r\n            return develop\r\n        else:\r\n            print('响应码为识别')\r\n\r\n\r\nif __name__ == '__main__':\r\n    re = 401\r\n    code = InviTation()\r\n    code.token_code(re)\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/judgingThatTheTokenIsInvalid/judgingThatTheTokenIsInvalid.py	(revision 236223c3087488bd005f50a2a16e2f84951813e0)
++++ influence/judgingThatTheTokenIsInvalid/judgingThatTheTokenIsInvalid.py	(date 1610099113219)
+@@ -19,7 +19,7 @@
+             sem.semtoken()
+             print('获取token成功，正在重试，请稍等......')
+             return 401
+-        elif re == 503 or 500:
++        elif re == 503 or re == 500:
+             print('请找相关开发人员解决')
+             develop = '请找相关开发人员解决'
+             return develop
+Index: debug/procur/flask_test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># _*_ coding: UTF-8 _*_\r\n# @Time     : 2020/12/24 21:46\r\n# @Author   : LiuXiaoQiang\r\n# @Site     : https://github.com/qq183727918\r\n# @File     : flask_test.py\r\n# @Software : PyCharm\r\n\r\nfrom debug.procur.payment import PayMent\r\nfrom debug.procur.procurchase import PurchaseOrderParams\r\nfrom debug.procur.supplier import SupplierMent\r\nfrom flask import Flask\r\nimport flask\r\nimport json\r\n\r\napp = Flask(__name__)\r\n\r\n\r\n@app.route('/login', methods=['POST'])\r\ndef login():\r\n    # from-data格式参数\r\n    global ren\r\n    purchaseSn = flask.request.values.get('purchaseSn')\r\n    print(purchaseSn)\r\n    # 付款单\r\n    sempayment = PayMent()\r\n    semp = sempayment.paymentest(purchaseSn)\r\n    print(semp)\r\n    # 无票可付\r\n    noTicketToPay = 0\r\n    # 票到付款\r\n    ticketToPayment = 0\r\n    for i in semp:\r\n        if i[\"attributeName\"] == \"无票可付\":\r\n            noTicketToPay += 1\r\n        elif i[\"attributeName\"] == \"票到付款\":\r\n            ticketToPayment += 1\r\n        else:\r\n            print('该属性错误')\r\n    print(f'无票可付:{noTicketToPay}')\r\n    print(f'票到付款:{ticketToPayment}')\r\n\r\n    # 采购单\r\n    sempurchaseorder = PurchaseOrderParams()\r\n    sempo = sempurchaseorder.params(purchaseSn)\r\n    print(sempo)\r\n    # 采购总价\r\n    pirc = sempo['采购总价']\r\n    # 是否含税\r\n    tax = sempo['是否含税']\r\n    # 供应商ID\r\n    procurementSupplierId = sempo['供应商ID']\r\n    # 采购单订单类型\r\n    orderType = sempo['采购单类型']\r\n\r\n    # 供应商\r\n    supplier = SupplierMent().supplierparams(purchaseSn)\r\n    print(supplier)\r\n    # 第一笔付款比例\r\n    payOne = supplier['第一笔付款比例']\r\n    payOnepirc = pirc * payOne * 0.01\r\n    # 第二笔付款比例\r\n    payTwo = supplier['第二笔付款比例']\r\n    payTwopirc = pirc * payTwo * 0.01\r\n    # 第三笔付款比例\r\n    payThree = supplier['第三笔付款比例']\r\n    payThreepirc = pirc * payThree * 0.01\r\n    # 限制金额\r\n    limitAmount = supplier['限制金额']\r\n    # 是否票到付尾款   True: 是  False: 否\r\n    finalPaymentOnDelivery = supplier['是否票到付尾款']\r\n    # 付款方式\r\n    paymentType = supplier['付款方式']\r\n    print('=========================================================================]')\r\n\r\n    print(semp[0]['paymentAmount'], semp[1]['paymentAmount'], semp[2]['paymentAmount'])\r\n    print(payOnepirc, payTwopirc, payThreepirc)\r\n\r\n    # 判断供应商付款方式\r\n    if paymentType == 1:\r\n        # 判断该采购单该生成的付款单类型以及数量\r\n        if tax == 0:  # 不含税\r\n            # 样品单与配件单\r\n            if orderType == 0 or orderType == 3:\r\n                # 一笔无票可付\r\n                if noTicketToPay == 1 and ticketToPayment == 0:\r\n                    if semp[0]['paymentAmount'] == pirc:\r\n                        ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                        print('采购单生成付款单正确')\r\n                    else:\r\n                        ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                        print('采购单生成付款单不正确，金额错误')\r\n                elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                    ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                    print('采购单生成未生成付款单')\r\n                else:\r\n                    ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                    print('采购单生成的付款单不正确')\r\n            else:\r\n                if pirc > 5000:\r\n                    # 第一笔第二笔合成一笔无票可付，第三笔无票可付\r\n                    if noTicketToPay == 2 and ticketToPayment == 0:\r\n                        if (payTwopirc + payTwopirc == sempo[0]['paymentAmount']) and (payThreepirc == sempo[1]['paymentAmount']):\r\n                            ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                            print('采购单生成付款单正确')\r\n                        else:\r\n                            ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                            print('采购单生成付款单不正确，金额错误')\r\n                    elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                        ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                        print('采购单生成未生成付款单')\r\n                    else:\r\n                        ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                        print('采购单生成的付款单不正确')\r\n                elif pirc <= 5000:\r\n                    # 一笔无票可付\r\n                    if noTicketToPay == 1 and ticketToPayment == 0:\r\n                        if semp[0]['paymentAmount'] == pirc:\r\n                            ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                            print('采购单生成付款单正确')\r\n                        else:\r\n                            ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                            print('采购单生成付款单不正确，金额错误')\r\n                    elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                        ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                        print('采购单生成未生成付款单')\r\n                    else:\r\n                        ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                        print('采购单生成的付款单不正确')\r\n\r\n        elif tax == 1:  # 含税\r\n            # 配件单与样品单\r\n            if orderType == 0 or orderType == 3:\r\n                # 一笔无票可付\r\n                if noTicketToPay == 1 and ticketToPayment == 0:\r\n                    if semp[0]['paymentAmount'] == pirc:\r\n                        ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                        print('采购单生成付款单正确')\r\n                    else:\r\n                        ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                        print('采购单生成付款单不正确，金额错误')\r\n                elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                    ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                    print('采购单生成未生成付款单')\r\n                else:\r\n                    ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                    print('采购单生成的付款单不正确')\r\n            else:\r\n                if pirc >= 5000:\r\n                    # 判断是否票到付尾款\r\n                    if finalPaymentOnDelivery:  # 0是，票到付尾款\r\n                        # 一笔无票可付，第两笔第三笔票到付款\r\n                        if noTicketToPay == 1 and ticketToPayment == 2:\r\n                            if semp[0]['paymentAmount'] == payOnepirc and semp[1]['paymentAmount'] == payTwopirc and semp[2]['paymentAmount'] == payThreepirc:\r\n                                ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                                print('采购单生成付款单正确')\r\n                            else:\r\n                                ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                                print('采购单生成付款单不正确，金额错误')\r\n                        else:\r\n                            ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                            print('采购单生成的付款单不正确')\r\n                    elif not finalPaymentOnDelivery:  # 1否，票到付尾款\r\n                        if pirc < limitAmount:  # 小于限制金额\r\n                            # 一笔无票可付\r\n                            if noTicketToPay == 1 and ticketToPayment == 0:\r\n                                if semp[0]['paymentAmount'] == pirc:\r\n                                    ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                                    print('采购单生成付款单正确')\r\n                                else:\r\n                                    ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                                    print('采购单生成付款单不正确，金额错误')\r\n                            elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                                ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                                print('采购单生成未生成付款单')\r\n                            else:\r\n                                ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                                print('采购单生成的付款单不正确')\r\n                        else:  # 大于等于限制金额\r\n                            # 第一笔第二笔合成一笔无票可付  第三笔生成票到付款\r\n                            if noTicketToPay == 1 and ticketToPayment == 1:\r\n                                if (payTwopirc + payTwopirc == semp[0]['paymentAmount']) and (payThreepirc == semp[1]['paymentAmount']):\r\n                                    ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                                    print('采购单生成付款单正确')\r\n                                else:\r\n                                    ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                                    print('采购单生成付款单不正确，金额错误')\r\n                            elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                                ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                                print('采购单生成未生成付款单')\r\n                            else:\r\n                                ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                                print('采购单生成的付款单不正确')\r\n                    else:\r\n                        ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                        print('采购单生成的付款单不正确')\r\n                elif pirc < 5000:\r\n                    # 一笔无票可付\r\n                    if noTicketToPay == 1 and ticketToPayment == 0:\r\n                        if semp[0]['paymentAmount'] == pirc:\r\n                            ren = {'msg_code': 139500, 'msg': '采购单生成付款单正确', 'data': semp}\r\n                            print('采购单生成付款单正确')\r\n                        else:\r\n                            ren = {'msg_code': 139501, 'msg': '采购单生成付款单不正确', 'data': semp}\r\n                            print('采购单生成付款单不正确，金额错误')\r\n                    elif noTicketToPay == 0 and ticketToPayment == 0:\r\n                        ren = {'msg_code': 139510, 'msg': '采购单生成未生成付款单', 'data': semp}\r\n                        print('采购单生成未生成付款单')\r\n                    else:\r\n                        ren = {'msg': '采购单生成的付款单不正确', 'msg_code': 139504, 'data': 'null'}\r\n                        print('采购单生成的付款单不正确')\r\n                else:\r\n                    ren = {'msg': '采购价错误', 'msg_code': 139503, 'data': 'null'}\r\n                    print('采购价错误')\r\n        else:\r\n            ren = {'msg': '是否含税类型错误', 'msg_code': 139502, 'data': 'null'}\r\n            print('是否含税类型错误')\r\n    else:\r\n        ren = {'msg': '供应商为应付款', 'msg_code': 139501, 'data': 'null'}\r\n        print('供应商为应付款')\r\n\r\n    return json.dumps(ren, ensure_ascii=False)\r\n\r\n\r\nif __name__ == '__main__':\r\n    app.run(port=80, debug=True, host='0.0.0.0')  # 启动服务\r\n    # debug=True,改了代码后，不用重启，它会自动重启\r\n    # 'host='127.0.0.1'别IP访问地址\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- debug/procur/flask_test.py	(revision 236223c3087488bd005f50a2a16e2f84951813e0)
++++ debug/procur/flask_test.py	(date 1610069092554)
+@@ -15,7 +15,7 @@
+ app = Flask(__name__)
+ 
+ 
+-@app.route('/login', methods=['POST'])
++@app.route('/login', methods=['GET'])
+ def login():
+     # from-data格式参数
+     global ren
+@@ -70,10 +70,10 @@
+     finalPaymentOnDelivery = supplier['是否票到付尾款']
+     # 付款方式
+     paymentType = supplier['付款方式']
+-    print('=========================================================================]')
++    print('======================================================================================================')
+ 
+-    print(semp[0]['paymentAmount'], semp[1]['paymentAmount'], semp[2]['paymentAmount'])
+-    print(payOnepirc, payTwopirc, payThreepirc)
++    # print(semp[0]['paymentAmount'], semp[1]['paymentAmount'], semp[2]['paymentAmount'])
++    # print(payOnepirc, payTwopirc, payThreepirc)
+ 
+     # 判断供应商付款方式
+     if paymentType == 1:
+Index: influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>U\r\r\n\u0000\u0000\u0000\u0000}>�_�\u0003\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000@\u0000\u0000\u0000s:\u0000\u0000\u0000d\u0000d\u0001l\u0000m\u0001Z\u0001\u0001\u0000G\u0000d\u0002d\u0003�\u0000d\u0003�\u0002Z\u0002e\u0003d\u0004k\u0002r6d\u0005Z\u0004e\u0002�\u0000Z\u0005e\u0005�\u0006e\u0004�\u0001\u0001\u0000d\u0006S\u0000)\u0007�\u0000\u0000\u0000\u0000)\u0001�\fSemLoginTestc\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000@\u0000\u0000\u0000s\u0014\u0000\u0000\u0000e\u0000Z\u0001d\u0000Z\u0002d\u0001d\u0002�\u0000Z\u0003d\u0003S\u0000)\u0004�\nInviTationc\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0002\u0000\u0000\u0000C\u0000\u0000\u0000sb\u0000\u0000\u0000|\u0001d\u0001k\u0002r\u0014t\u0000d\u0002�\u0001\u0001\u0000d\u0001S\u0000|\u0001d\u0003k\u0002r>t\u0000d\u0004�\u0001\u0001\u0000t\u0001�\u0000}\u0002|\u0002�\u0002�\u0000\u0001\u0000t\u0000d\u0005�\u0001\u0001\u0000d\u0003S\u0000|\u0001d\u0006k\u0002sFt\u0000d\b�\u0001\u0001\u0000d\b}\u0003|\u0003S\u0000t\u0000d\t�\u0001\u0001\u0000d\u0000S\u0000)\nN��\u0000\u0000\u0000u#\u0000\u0000\u0000token可以正常使用，请继续�\u0001\u0000\u0000u%\u0000\u0000\u0000token失效，正在重新获取tokenu2\u0000\u0000\u0000获取token成功，正在重试，请稍等......i�\u0001\u0000\u0000i�\u0001\u0000\u0000u\u001E\u0000\u0000\u0000请找相关开发人员解决u\u0012\u0000\u0000\u0000响应码为识别)\u0003�\u0005printr\u0002\u0000\u0000\u0000�\bsemtoken)\u0004�\u0004self�\u0002reZ\u0003semZ\u0007develop�\u0000r\n\u0000\u0000\u0000�aD:\\Tools\\vevor\\selenium_ui\\influence\\judgingThatTheTokenIsInvalid\\judgingThatTheTokenIsInvalid.py�\ntoken_code\f\u0000\u0000\u0000s\u001C\u0000\u0000\u0000\u0000\u0001\b\u0001\b\u0001\u0004\u0001\b\u0001\b\u0001\u0006\u0001\b\u0001\b\u0001\u0004\u0001\b\u0001\b\u0001\u0004\u0001\u0004\u0002z\u0015InviTation.token_codeN)\u0004�\b__name__�\n__module__�\f__qualname__r\f\u0000\u0000\u0000r\n\u0000\u0000\u0000r\n\u0000\u0000\u0000r\n\u0000\u0000\u0000r\u000B\u0000\u0000\u0000r\u0003\u0000\u0000\u0000\n\u0000\u0000\u0000s\u0002\u0000\u0000\u0000\b\u0002r\u0003\u0000\u0000\u0000�\b__main__r\u0005\u0000\u0000\u0000N)\u0007�\u001Dinfluence.sem_login.sem_loginr\u0002\u0000\u0000\u0000r\u0003\u0000\u0000\u0000r\r\u0000\u0000\u0000r\t\u0000\u0000\u0000�\u0004coder\f\u0000\u0000\u0000r\n\u0000\u0000\u0000r\n\u0000\u0000\u0000r\n\u0000\u0000\u0000r\u000B\u0000\u0000\u0000�\b<module>\u0007\u0000\u0000\u0000s\n\u0000\u0000\u0000\f\u0003\u000E\u0014\b\u0001\u0004\u0001\u0006\u0001
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc	(revision 236223c3087488bd005f50a2a16e2f84951813e0)
++++ influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc	(date 1610099114878)
+@@ -1,17 +1,11 @@
+ U
+ 
+-    }>�_�  �                   @   s:   d dl mZ G dd� d�Zedkr6dZe� Ze�e� dS )�    )�SemLoginTestc                   @   s   e Zd Zdd� ZdS )�
+-InviTationc                 C   sb   |dkrt d� dS |dkr>t d� t� }|��  t d� dS |dksFt d� d}|S t d	� d S )
+-N��   u#   token可以正常使用，请继续�  u%   token失效，正在重新获取tokenu2   获取token成功，正在重试，请稍等......i�  i�  u   请找相关开发人员解决u   响应码为识别)�printr   �semtoken)�self�reZsemZdevelop� r
+-   �aD:\Tools\vevor\selenium_ui\influence\judgingThatTheTokenIsInvalid\judgingThatTheTokenIsInvalid.py�
+-token_code   s    zInviTation.token_codeN)�__name__�
+-__module__�__qualname__r   r
+-   r
+-   r
+-   r   r   
+-   s   r   �__main__r   N)�influence.sem_login.sem_loginr   r   r
+-   r	   �coder   r
+-   r
+-   r
+-   r   �<module>   s
++    �)�_�  �                   @   s:   d dl mZ G dd� d�Zedkr6dZe� Ze�e� dS )�    )�SemLoginTestc                   @   s   e Zd Zdd� ZdS )�
++InviTationc                 C   sj   |dkrt d� dS |dkr>t d� t� }|��  t d� dS |dksN|dkr^t d� d}|S t d	� d S )
++N��   u#   token可以正常使用，请继续�  u%   token失效，正在重新获取tokenu2   获取token成功，正在重试，请稍等......i�  i�  u   请找相关开发人员解决u   响应码为识别)�printr   Zsemtoken)�self�reZsemZdevelop� r	   �aD:\Tools\vevor\selenium_ui\influence\judgingThatTheTokenIsInvalid\judgingThatTheTokenIsInvalid.py�
++token_code   s    zInviTation.token_codeN)�__name__�
++__module__�__qualname__r   r	   r	   r	   r
++   r   
++   s   r   �__main__r   N)Zinfluence.sem_login.sem_loginr   r   r   r   �coder   r	   r	   r	   r
++   �<module>   s
+    
+\ No newline at end of file
+Index: influence/purchase/number.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/purchase/number.py	(date 1610098758157)
++++ influence/purchase/number.py	(date 1610098758157)
+@@ -0,0 +1,49 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/23 14:38
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : 123.py
++# @Software : PyCharm
++import requests
++import pprint
++from influence.sem_login.sem_login import SemLoginTest
++from file_pre.read_token import ReadToken
++from influence.judgingThatTheTokenIsInvalid.judgingThatTheTokenIsInvalid import InviTation
++from influence.purchase.debug import Sem
++
++
++def postpurchase(purchaseSn):
++    purchaseSn = int(purchaseSn)
++    token = ReadToken().retoken()
++    url = "https://gatewaypreprod.vevor.net/scp-procurement-service/controller-purchaseOrderService/front/addPurchaseOrder"
++
++    payload = Sem()[purchaseSn]
++
++    headers = {
++        "Content-Type": "application/json",
++        "Authorization": f"Bearer {token}"
++    }
++
++    response = requests.post(url, json=payload, headers=headers)
++
++    re = response.json()
++
++    pprint.pprint(re)
++
++    TheTokenValue = InviTation().token_code(re['code'])
++
++    if TheTokenValue == 200:
++
++        pprint.pprint(re)
++
++    elif TheTokenValue == 401:
++        postpurchase(purchaseSn)
++    elif TheTokenValue == '请找相关开发人员解决':
++        print('请找相关开发人员解决')
++    else:
++        print('请检查代码逻辑，谢谢')
++
++
++if __name__ == '__main__':
++    purchaseSn = 1
++    postpurchase(purchaseSn)
+Index: pdf_doxc/requirements.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pdf_doxc/requirements.txt	(date 1610021785852)
++++ pdf_doxc/requirements.txt	(date 1610021785852)
+@@ -0,0 +1,9 @@
++attrs==17.4.0
++lxml==4.1.1
++pdfminer3k==1.3.4
++pluggy==0.6.0
++ply==3.11
++py==1.5.2
++pytest==3.4.1
++python-docx==0.8.6
++six==1.11.0
+Index: influence/purchase/debug.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/purchase/debug.py	(date 1610073636253)
++++ influence/purchase/debug.py	(date 1610073636253)
+@@ -0,0 +1,99 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2020/12/9 10:31
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : debug.py
++# @Software : PyCharm
++
++def Sem():
++    # 订单类型 2，系统订单，4，FBA订单，5，额外加货订单
++    orderType = 5
++    # 0，ERP生成，1，商品中心生成，2，scp生成
++    dateSource = 0
++
++    lista = [[{
++        "billSource": 0,
++        "dateSource": dateSource,
++        "goodsId": 3,
++        "id": 3,
++        "orderType": orderType,
++        "procurementSupplierName": "文登奥文电机有限公司",
++        "productCategory": 279,
++        "productName": "砂光机-12\"圆盘砂光机V1",
++        "purchaseNumber": 1000,
++        "purchasePrice": 572.73,
++        "replaceGoodsId": "",
++        "skuName": "砂光机-12\"圆盘砂光机V1",
++        "skuOm": "YPSGJ-12V1WP0GFEMV1",
++        "tax": 1
++    }
++
++        , {
++            "billSource": 0,
++            "dateSource": dateSource,
++            "goodsId": 2,
++            "id": 2,
++            "orderType": orderType,
++            "procurementSupplierName": "文登奥文电机有限公司",
++            "productCategory": 279,
++            "productName": "砂光机-6\"砂盘2*42砂带机V1",
++            "purchaseNumber": 1000,
++            "purchasePrice": 536.36,
++            "replaceGoodsId": "",
++            "skuName": "砂光机-6\"砂盘2*42砂带机V1",
++            "skuOm": "GPSDJ-6242V1JSNPKV1",
++            "tax": 1
++        }]
++
++        , [{
++            "billSource": 0,
++            "dateSource": dateSource,
++            "goodsId": 16,
++            "id": 16,
++            "orderType": orderType,
++            "procurementSupplierName": "靖江联新机械配件有限公司",
++            "productCategory": 279,
++            "productName": "推车1000磅49*24.5",
++            "purchaseNumber": 1000,
++            "purchasePrice": 236.36,
++            "skuName": "推车1000磅49*24.5",
++            "skuOm": "TC1000B4924.50001V0",
++            "tax": 1
++        },
++            {
++                "billSource": 0,
++                "dateSource": dateSource,
++                "goodsId": 17,
++                "id": 17,
++                "orderType": orderType,
++                "procurementSupplierName": "靖江联新机械配件有限公司",
++                "productCategory": 279,
++                "productName": "推车(1200磅47.5*22.5",
++                "purchaseNumber": 1000,
++                "purchasePrice": 290.91,
++                "skuName": "推车(1200磅47.5*22.5",
++                "skuOm": "TC1200B47.522.501V0",
++                "tax": 1
++            }
++        ],
++        [
++            {
++                'billSource': 0,
++                'dateSource': dateSource,
++                'goodsId': 58335,
++                'id': 58335,
++                'orderType': orderType,
++                'procurementSupplierName': "上海欣跃汽摩配件有限公司",
++                'productCategory': 279,
++                'productName': "刘 10英寸*32英寸蓝色220V欧插",
++                'purchaseNumber': 100,
++                'purchasePrice': 10000,
++                'replaceGoodsId': '',
++                'skuName': "刘 10英寸*32英寸蓝色220V欧插",
++                'skuOm': "LYCYC1032220V8F9OV2",
++                'tax': 0
++            }
++        ]]
++    return lista
++
++# print(Sem()[0])
+Index: influence/purchase/se.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/purchase/se.py	(date 1610011821668)
++++ influence/purchase/se.py	(date 1610011821668)
+@@ -0,0 +1,17 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2021/1/7 17:27
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : se.py
++# @Software : PyCharm
++
++
++ssd = "a"
++try:
++    print(type(ssd))
++    print(ssd)
++    ssd = int(ssd)
++    print(type(ssd))
++    print(ssd)
++except Exception as e:
++    print(e)
+Index: pdf_doxc/pdf_doc.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pdf_doxc/pdf_doc.py	(date 1610026627981)
++++ pdf_doxc/pdf_doc.py	(date 1610026627981)
+@@ -0,0 +1,83 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2021/1/7 20:15
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : pdf_doc.py
++# @Software : PyCharm
++
++import os
++from configparser import ConfigParser
++from io import StringIO
++from io import open
++from concurrent.futures import ProcessPoolExecutor
++
++from pdfminer.pdfinterp import PDFResourceManager
++from pdfminer.pdfinterp import process_pdf
++from pdfminer.converter import TextConverter
++from pdfminer.layout import LAParams
++from docx import Document
++
++
++def read_from_pdf(file_path):
++    with open(file_path, 'rb') as file:
++        resource_manager = PDFResourceManager()
++        return_str = StringIO()
++        lap_params = LAParams()
++
++        device = TextConverter(
++            resource_manager, return_str, laparams=lap_params)
++        process_pdf(resource_manager, device, file)
++        device.close()
++
++        content = return_str.getvalue()
++        return_str.close()
++        return content
++
++
++def save_text_to_word(content, file_path):
++    doc = Document()
++    for line in content.split('\n'):
++        paragraph = doc.add_paragraph()
++        paragraph.add_run(remove_control_characters(line))
++    doc.save(file_path)
++
++
++def remove_control_characters(content):
++    mpa = dict.fromkeys(range(32))
++    return content.translate(mpa)
++
++
++def pdf_to_word(pdf_file_path, word_file_path):
++    content = read_from_pdf(pdf_file_path)
++    save_text_to_word(content, word_file_path)
++
++
++def main():
++    config_parser = ConfigParser()
++    config_parser.read('config.cfg')
++    config = config_parser['default']
++
++    tasks = []
++    with ProcessPoolExecutor(max_workers=int(config['max_worker'])) as executor:
++        for file in os.listdir(config['pdf_folder']):
++            extension_name = os.path.splitext(file)[1]
++            if extension_name != '.pdf':
++                continue
++            file_name = os.path.splitext(file)[0]
++            pdf_file = config['pdf_folder'] + '/' + file
++            word_file = config['word_folder'] + '/' + file_name + '.docx'
++            print('正在处理: ', file)
++            result = executor.submit(pdf_to_word, pdf_file, word_file)
++            tasks.append(result)
++    while True:
++        exit_flag = True
++        for task in tasks:
++            if not task.done():
++                exit_flag = False
++        if exit_flag:
++            print('完成')
++            exit(0)
++
++
++if __name__ == '__main__':
++    main()
+Index: influence/purchase/purchase.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- influence/purchase/purchase.py	(date 1610095140231)
++++ influence/purchase/purchase.py	(date 1610095140231)
+@@ -0,0 +1,46 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2021/1/7 16:33
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : purchase.py
++# @Software : PyCharm
++from flask import Flask
++import flask
++import json
++from influence.purchase.number import postpurchase
++
++api = Flask(__name__)
++
++
++@api.route('/loginorder', methods=['POST'])
++def loginorder():
++    global ren
++
++    purchaseSn = flask.request.values.get('purchaseSn')
++
++    # try:
++    #     purchaseSn = int(purchaseSn)
++    # except Exception as e:
++    #     print(e)
++    # print(type(purchaseSn))
++    print(purchaseSn)
++
++    if purchaseSn not in ['1', '2', '0']:
++        ren = {'msg_code': 139502, 'msg': '输入错误，请重新输入，只能输入0或者1', 'data': 'null'}
++        print('输入错误，请重新输入，只能输入0或者1')
++    elif purchaseSn in ['1', '2', '0']:
++        print('正在生成采购单请稍等')
++        postpurchase(purchaseSn)
++        print('完成，请查看')
++        ren = {'msg_code': 139502, 'msg': '采购单新建完成', 'data': 'null'}
++    else:
++        ren = {'msg_code': 139503, 'msg': '输入错误，请重新输入', 'data': 'null'}
++        print('输入错误，请重新输入')
++
++    return json.dumps(ren, ensure_ascii=False)
++
++
++if __name__ == '__main__':
++    api.run(port=8487, debug=False, host='0.0.0.0')  # 启动服务
++    # debug=True,改了代码后，不用重启，它会自动重启
++    # 'host='127.0.0.1'别IP访问地址
+Index: debug/tesseract.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># _*_ coding: UTF-8 _*_\r\n# @Time     : 2020/12/30 8:59\r\n# @Author   : LiuXiaoQiang\r\n# @Site     : https://github.com/qq183727918\r\n# @File     : tesseract.py\r\n# @Software : PyCharm\r\n\r\nfrom PIL import Image\r\nimport pytesseract\r\n\r\n\r\ndef image_str(images):\r\n    image = Image.open(images)\r\n    result = pytesseract.image_to_string(image, lang='chi_sim')  # 图片转文字\r\n    print(result)  # 打印识别的验证码\r\n\r\n\r\nimage_str('./123.png')\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- debug/tesseract.py	(revision 236223c3087488bd005f50a2a16e2f84951813e0)
++++ debug/tesseract.py	(date 1610018150970)
+@@ -15,4 +15,4 @@
+     print(result)  # 打印识别的验证码
+ 
+ 
+-image_str('./123.png')
++image_str('./QQ.png')
+Index: debug/pdftesseract.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- debug/pdftesseract.py	(date 1610018502088)
++++ debug/pdftesseract.py	(date 1610018502088)
+@@ -0,0 +1,66 @@
++# _*_ coding: UTF-8 _*_
++# @Time     : 2021/1/7 19:20
++# @Author   : LiuXiaoQiang
++# @Site     : https://github.com/qq183727918
++# @File     : pdftesseract.py
++# @Software : PyCharm
++from pdfminer.pdfparser import PDFParser, PDFDocument
++from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
++from pdfminer.layout import LAParams
++from pdfminer.converter import PDFPageAggregator
++from pdfminer.pdfinterp import PDFTextExtractionNotAllowed
++from docx import Document
++
++document = Document()
++
++
++def parse():
++    # rb以二进制读模式打开本地pdf文件
++    fn = open('Django-日志配置.md.pdf', 'rb')
++    # 创建一个pdf文档分析器
++    parser = PDFParser(fn)
++    # 创建一个PDF文档
++    doc = PDFDocument()
++    # 连接分析器 与文档对象
++    parser.set_document(doc)
++    doc.set_parser(parser)
++
++    # 提供初始化密码doc.initialize("lianxipython")
++    # 如果没有密码 就创建一个空的字符串
++    doc.initialize("")
++    # 检测文档是否提供txt转换，不提供就忽略
++    if not doc.is_extractable:
++        raise PDFTextExtractionNotAllowed
++
++    else:
++        # 创建PDf资源管理器
++        resource = PDFResourceManager()
++        # 创建一个PDF参数分析器
++        laparams = LAParams()
++        # 创建聚合器,用于读取文档的对象
++        device = PDFPageAggregator(resource, laparams=laparams)
++        # 创建解释器，对文档编码，解释成Python能够识别的格式
++        interpreter = PDFPageInterpreter(resource, device)
++        # 循环遍历列表，每次处理一页的内容
++        # doc.get_pages() 获取page列表
++        for page in doc.get_pages():
++            # 利用解释器的process_page()方法解析读取单独页数
++            interpreter.process_page(page)
++            # 使用聚合器get_result()方法获取内容
++            layout = device.get_result()
++            # 这里layout是一个LTPage对象,里面存放着这个page解析出的各种对象
++            for out in layout:
++                # 判断是否含有get_text()方法，获取我们想要的文字
++                if hasattr(out, "get_text"):
++                    # print(out.get_text(), type(out.get_text()))
++                    content = out.get_text().replace(u'\xa0', u' ')  # 将'\xa0'替换成u' '空格，这个\xa0就是&nbps空格
++                    # with open('test.txt','a') as f:
++                    #     f.write(out.get_text().replace(u'\xa0', u' ')+'\n')
++                    document.add_paragraph(
++                        content, style='ListBullet'  # 添加段落，样式为unordered list类型
++                    )
++                document.save('demo1.docx')  # 保存这个文档
++
++
++if __name__ == '__main__':
++    parse()
