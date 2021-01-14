@@ -6,17 +6,27 @@
 # @Software : PyCharm
 import flask
 import json
+from center_goods.goods_info1 import goods_info1
+from center_goods.goods_info2 import goods_info2
+from debug.new_inster import postpurchase
 
 # 实例化api，把当前这个python文件当作一个服务，__name__代表当前这个python文件
 api = flask.Flask(__name__)
 
 
-@api.route('/index', methods=['get'])
+@api.route('/interstice', methods=['get'])
 # get方式访问
-def index():
+def interstice():
     goods_price = flask.request.values.get('goods_price')
-
-    ren = {'msg': '成功访问首页', 'msg_code': 200}
+    if goods_price == 1:
+        goods_info1()
+        goods_info2()
+        ren = {'code': 200, 'msg': '价格修改成功', 'data': 'NULL'}
+    elif goods_price == '2':
+        postpurchase()
+        ren = {'code': 200, 'msg': '数据新增成功', 'data': 'NULL'}
+    else:
+        ren = {'code': 500, 'msg': '修改错误，谢谢', 'data': 'NULL'}
     # json.dumps 序列化时对中文默认使用的ascii编码.想输出中文需要指定ensure_ascii=False
     return json.dumps(ren, ensure_ascii=False)
 

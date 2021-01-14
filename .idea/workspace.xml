@@ -29,21 +29,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-goods/goods_flask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-goods/goods_info1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-goods/goods_info2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug/procur/__pycache__/flask_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/influence/esayocr_test/__pycache__/esayocr_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/__pycache__/Warehouse_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_goods/__pycache__/goods_info1.cpython-38.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_goods/__pycache__/goods_info2.cpython-38.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_goods/goods_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_goods/goods_info1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center_goods/goods_info2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/__pycache__/new_inster.cpython-38.pyc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_3.cpython-38-pytest-6.2.1.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_3.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_4.cpython-38-pytest-6.2.1.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_4.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-goods/goods_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-goods/goods_info1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-goods/goods_info2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/new_inster.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,7 @@
     <setting file="file://$PROJECT_DIR$/.idea/workspace.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testcase/WarehouseReceipt/warehousereceipt.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="JupyterTrust" id="364ad378-81c6-46da-bf65-e6f6a1d83996" />
+  <component name="JupyterTrust" id="7e80193d-80d4-43e4-b37b-870d903f78cb" />
   <component name="ProjectId" id="1lNA5dIpkrTrG49oSiklGlsnvJt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="新增" />
@@ -179,29 +175,7 @@
       <recent name="D:\Tools\git\selenium_ui\testcase\determine" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.goods_info2">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug/123.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.goods_flask">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,6 +190,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="goods_flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/center_goods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/center_goods/goods_flask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +243,9 @@
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/center-goods" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -281,6 +277,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_inster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Tools\vevor\selenium_ui\debug\new_inster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -321,30 +339,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in pytest_test_5.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/study_case/pytest_skip/pytest_test_5.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.goods_flask" />
         <item itemvalue="Python.goods_info2" />
         <item itemvalue="Python.goods_info1" />
-        <item itemvalue="Python.123" />
+        <item itemvalue="Python.new_inster" />
         <item itemvalue="Python 测试.pytest in pytest_test_1.py" />
-        <item itemvalue="Python 测试.pytest in pytest_test_5.py" />
       </list>
     </recent_temporary>
   </component>
@@ -409,6 +410,8 @@
       <workItem from="1610324751661" duration="2451000" />
       <workItem from="1610354841666" duration="10037000" />
       <workItem from="1610520492010" duration="7959000" />
+      <workItem from="1610592150629" duration="293000" />
+      <workItem from="1610592464246" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -690,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610239181822</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="[master]center-goods">
+      <created>1610592287401</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610592287401</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -807,17 +817,18 @@
     <MESSAGE value="[master]shiplit" />
     <MESSAGE value="[master]optlist" />
     <MESSAGE value="[master]WarehouseReceipt" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]WarehouseReceipt" />
+    <MESSAGE value="[master]center-goods" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]center-goods" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1862" height="926" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1610522144527">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="93" y="93" width="1862" height="926" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610522144527" />
-    <state x="714" y="136" key="CommitChangelistDialog2" timestamp="1610239179019">
+    <state x="366" y="136" width="1604" height="839" key="CommitChangelistDialog2" timestamp="1610592285877">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="714" y="136" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610239179019" />
+    <state x="366" y="136" width="1604" height="839" key="CommitChangelistDialog2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610592285877" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1610240257591">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -846,10 +857,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610240058535" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610239198577">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1610592293512">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610239198577" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610592293512" />
     <state x="838" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610239140274">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
