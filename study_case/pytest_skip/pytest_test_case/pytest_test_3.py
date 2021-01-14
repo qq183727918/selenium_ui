@@ -8,9 +8,10 @@ import pytest
 
 
 @pytest.mark.run(order=-5)
-@pytest.mark.dependency(depends=["pytest_test_4.py::pytest_test_4"], scope='session')
-def test_31():
-    assert True
+@pytest.mark.dependency(depends=["pytest_test_4.py::test_a"], scope='session')
+def test_b():
+    a = 1
+    assert a == 1
 
 
 

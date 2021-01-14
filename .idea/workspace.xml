@@ -29,17 +29,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf7f930-6f92-4407-bae6-9717482e7f65" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_3.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_4.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_9_14_23____.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-goods/goods_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-goods/goods_info1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-goods/goods_info2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/procur/__pycache__/flask_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/influence/esayocr_test/__pycache__/esayocr_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/WarehouseReceipt/__pycache__/Warehouse_test.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug/123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/influence/judgingThatTheTokenIsInvalid/__pycache__/judgingThatTheTokenIsInvalid.cpython-38.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_3.cpython-38-pytest-6.2.1.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_3.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_4.cpython-38-pytest-6.2.1.pyc" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/__pycache__/pytest_test_4.cpython-38-pytest-6.2.1.pyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,21 +163,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings>
-        <option name="useSoftWraps" value="true" />
-      </console-settings>
-    </option>
-  </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Tools\vevor\selenium_ui\study_case\pytest_skip\pytest_test_case" />
-      <recent name="D:\Tools\git\selenium_ui\debug" />
-      <recent name="D:\Tools\git\selenium_ui\debug\procur" />
-      <recent name="D:\Tools\git\selenium_ui\testcase\determine" />
-      <recent name="D:\Tools\git\selenium_ui\params" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pycharm\vover\influence\esayocr_test" />
       <recent name="D:\Tools\git\selenium_ui\sql" />
@@ -181,12 +171,22 @@
       <recent name="D:\Tools\git\selenium_ui\setting\latestOverseasWarehouse" />
       <recent name="D:\Tools\git\selenium_ui\setting\MoveMoney" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Tools\vevor\selenium_ui\study_case\pytest_skip" />
+      <recent name="D:\Tools\vevor\selenium_ui\study_case\pytest_skip\pytest_test_case" />
+      <recent name="D:\Tools\git\selenium_ui\debug" />
+      <recent name="D:\Tools\git\selenium_ui\debug\procur" />
+      <recent name="D:\Tools\git\selenium_ui\testcase\determine" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.123">
+  <component name="RunManager" selected="Python.goods_info2">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debug" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -224,6 +224,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="goods_info1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/center-goods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/center-goods/goods_info1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="goods_info2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_ui" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/center-goods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/center-goods/goods_info2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,25 +281,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -282,12 +304,12 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for pytest_test_2.Test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in pytest_test_1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip/debug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -295,16 +317,16 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pytest_test_2.Test1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/study_case/pytest_skip/debug/pytest_test_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for study_case.pytest_skip.pytest_test_1.Test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in pytest_test_5.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_ui" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -312,34 +334,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;study_case.pytest_skip.pytest_test_1.Test1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in pytest_test_3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="selenium_ui" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_case/pytest_skip" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case/pytest_test_3.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/study_case/pytest_skip/pytest_test_5.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.goods_info2" />
+        <item itemvalue="Python.goods_info1" />
         <item itemvalue="Python.123" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python 测试.pytest for pytest_test_2.Test1" />
-        <item itemvalue="Python 测试.pytest for study_case.pytest_skip.pytest_test_1.Test1" />
-        <item itemvalue="Python 测试.pytest in pytest_test_3.py" />
+        <item itemvalue="Python 测试.pytest in pytest_test_1.py" />
+        <item itemvalue="Python 测试.pytest in pytest_test_5.py" />
       </list>
     </recent_temporary>
   </component>
@@ -403,6 +408,7 @@
       <workItem from="1610192347803" duration="1311000" />
       <workItem from="1610324751661" duration="2451000" />
       <workItem from="1610354841666" duration="10037000" />
+      <workItem from="1610520492010" duration="7959000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1607433631488</created>
@@ -804,6 +810,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="[master]WarehouseReceipt" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1862" height="926" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1610522144527">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610522144527" />
     <state x="714" y="136" key="CommitChangelistDialog2" timestamp="1610239179019">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -812,26 +822,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610240257591" />
-    <state width="2005" height="383" key="GridCell.Tab.0.bottom" timestamp="1610502117806">
+    <state width="2005" height="485" key="GridCell.Tab.0.bottom" timestamp="1610584413293">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="383" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610502117806" />
-    <state width="2005" height="383" key="GridCell.Tab.0.center" timestamp="1610502117806">
+    <state width="2005" height="485" key="GridCell.Tab.0.bottom/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610584413293" />
+    <state width="2005" height="485" key="GridCell.Tab.0.center" timestamp="1610584413293">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="383" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610502117806" />
-    <state width="2005" height="383" key="GridCell.Tab.0.left" timestamp="1610502117806">
+    <state width="2005" height="485" key="GridCell.Tab.0.center/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610584413293" />
+    <state width="2005" height="485" key="GridCell.Tab.0.left" timestamp="1610584413293">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="383" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610502117806" />
-    <state width="2005" height="383" key="GridCell.Tab.0.right" timestamp="1610502117806">
+    <state width="2005" height="485" key="GridCell.Tab.0.left/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610584413293" />
+    <state width="2005" height="485" key="GridCell.Tab.0.right" timestamp="1610584413293">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="383" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610502117806" />
-    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1610498482456">
+    <state width="2005" height="485" key="GridCell.Tab.0.right/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610584413293" />
+    <state x="605" y="291" key="IDE.errors.dialog" timestamp="1610522141418">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610498482456" />
+    <state x="605" y="291" key="IDE.errors.dialog/-1920.528.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1610522141418" />
     <state x="526" y="201" key="SettingsEditor" timestamp="1610240058535">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -866,6 +876,9 @@
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder.coverage" NAME="purchaseOrder 覆盖结果" MODIFIED="1608723646823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_in_pytest_test_3_py.coverage" NAME="pytest in pytest_test_3.py Coverage Results" MODIFIED="1610499590437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseordertest.coverage" NAME="purchaseordertest 覆盖结果" MODIFIED="1608794974876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/params" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_test_5_test_01.coverage" NAME="pytest for pytest_test_5.test_01 Coverage Results" MODIFIED="1610521589248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_test_5_Test1_test_01.coverage" NAME="pytest for pytest_test_5.Test1.test_01 Coverage Results" MODIFIED="1610521899967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_in_pytest_test_5_py.coverage" NAME="pytest in pytest_test_5.py Coverage Results" MODIFIED="1610523218380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip/pytest_test_case" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_login.coverage" NAME="sem_login 覆盖结果" MODIFIED="1608770866617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_shiplit_Shiplit.coverage" NAME="pytest for shiplit.Shiplit Coverage Results" MODIFIED="1609319875676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/shiplit" />
     <SUITE FILE_PATH="coverage/selenium_ui$Gression.coverage" NAME="Gression Coverage Results" MODIFIED="1609220839189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/Gression" />
@@ -882,11 +895,14 @@
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_warehouse_select_WareHouseTest_test.coverage" NAME="pytest for warehouse_select.WareHouseTest.test Coverage Results" MODIFIED="1609329928230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$Sem_All_Receipt.coverage" NAME="Sem_All_Receipt 覆盖结果" MODIFIED="1607501718579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runner/SEM_All_Receipt" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_WarehouseReceipt__1_.coverage" NAME="sem_WarehouseReceipt (1) 覆盖结果" MODIFIED="1607484499131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/WarehouseReceipt" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_test_5_Test1.coverage" NAME="pytest for pytest_test_5.Test1 Coverage Results" MODIFIED="1610521761772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_in_pytest_test_2_py.coverage" NAME="pytest in pytest_test_2.py Coverage Results" MODIFIED="1610498915346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest.coverage" NAME="pytest for purchaseOrder.PurchaseOrderTest Coverage Results" MODIFIED="1609853481214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_in_pytest_test_1_py.coverage" NAME="pytest in pytest_test_1.py Coverage Results" MODIFIED="1610584159179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$payment_Payment__pytest.coverage" NAME="payment.Payment 的 pytest 覆盖结果" MODIFIED="1607500012173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/payment" />
     <SUITE FILE_PATH="coverage/selenium_ui$123.coverage" NAME="123 Coverage Results" MODIFIED="1609316719991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_purchaseOrder_PurchaseOrderTest_test.coverage" NAME="pytest for purchaseOrder.PurchaseOrderTest.test Coverage Results" MODIFIED="1609853504363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_test_5_article_test_cart.coverage" NAME="pytest for pytest_test_5.article.test_cart Coverage Results" MODIFIED="1610522791450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
     <SUITE FILE_PATH="coverage/selenium_ui$ReturnShelfOrder_ReturnShelfOrder__pytest.coverage" NAME="ReturnShelfOrder.ReturnShelfOrder 的 pytest 覆盖结果" MODIFIED="1607500202669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/ReturnShelfOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$sem_procurementTransit.coverage" NAME="sem_procurementTransit 覆盖结果" MODIFIED="1607500055121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/procurementTransit" />
     <SUITE FILE_PATH="coverage/selenium_ui$warehousereceipt.coverage" NAME="warehousereceipt 覆盖结果" MODIFIED="1608775846906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/WarehouseReceipt" />
@@ -912,6 +928,7 @@
     <SUITE FILE_PATH="coverage/selenium_ui$locationBatchStock.coverage" NAME="locationBatchStock Coverage Results" MODIFIED="1609221041199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/setting/locationBatchStock" />
     <SUITE FILE_PATH="coverage/selenium_ui$latestOverseasWarehouse_LatestOverseasWarehouse_test__pytest.coverage" NAME="latestOverseasWarehouse.LatestOverseasWarehouse.test 的 pytest 覆盖结果" MODIFIED="1607499943719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/latestOverseasWarehouse" />
     <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_order_test_Test1_test_5.coverage" NAME="pytest for pytest_order_test.Test1.test_5 Coverage Results" MODIFIED="1610498718717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
+    <SUITE FILE_PATH="coverage/selenium_ui$pytest_for_pytest_test_5_Test1_test_02.coverage" NAME="pytest for pytest_test_5.Test1.test_02 Coverage Results" MODIFIED="1610521963698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study_case/pytest_skip" />
     <SUITE FILE_PATH="coverage/selenium_ui$run.coverage" NAME="run 覆盖结果" MODIFIED="1608723569459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_ui$purchaseOrder_PurchaseOrderTest_test__pytest.coverage" NAME="purchaseOrder.PurchaseOrderTest.test 的 pytest 覆盖结果" MODIFIED="1608773435581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/purchaseOrder" />
     <SUITE FILE_PATH="coverage/selenium_ui$procurementTransit_ProcurementTransit__pytest.coverage" NAME="procurementTransit.ProcurementTransit 的 pytest 覆盖结果" MODIFIED="1607500125831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/procurementTransit" />

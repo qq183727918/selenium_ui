@@ -10,5 +10,6 @@ import pytest
 
 @pytest.mark.run(order=-10)
 @pytest.mark.dependency()
-def test_32():
-    assert True
+def test_a():
+    a = 1
+    assert a == 1

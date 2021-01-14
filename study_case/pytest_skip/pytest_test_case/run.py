@@ -8,5 +8,6 @@
 
 # run.py文件
 import pytest
+pytest.main(["-v", "-s", "."])
+# pytest.main(["-v", "-s", "pytest_test_4.py"])
 
-pytest.main(["-v", "-s", "pytest_test_4.py"])
